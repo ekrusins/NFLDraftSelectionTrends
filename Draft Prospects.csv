@@ -1,0 +1,1927 @@
+"ID","ProFootballReferenceID","FirstName","LastName","RookieYear","Position","DraftedPosition","College","Round","PickinRound","OverallPick"
+12254,"LawrTr00","Trevor","Lawrence",2021.00,"QB","QB","Clemson",1,1,1
+12255,"WilsZa00","Zach","Wilson",2021.00,"QB","QB","BYU",1,2,2
+12256,"LancTr00","Trey","Lance",2021.00,"QB","QB","North Dakota St.",1,3,3
+12257,"PittKy00","Kyle","Pitts",2021.00,"TE","TE","Florida",1,4,4
+12258,"ChasJa00","Ja'Marr","Chase",2021.00,"WR","WR","LSU",1,5,5
+12259,"WaddJa00","Jaylen","Waddle",2021.00,"WR","WR","Alabama",1,6,6
+12260,"SewePe00","Penei","Sewell",2021.00,"T","OL","Oregon",1,7,7
+12261,"HornJa00","Jaycee","Horn",2021.00,"CB","DB","South Carolina",1,8,8
+12262,"SurtPa01","Patrick","Surtain II",2021.00,"CB","DB","Alabama",1,9,9
+12263,"SmitDe07","DeVonta","Smith",2021.00,"WR","WR","Alabama",1,10,10
+12264,"FielJu00","Justin","Fields",2021.00,"QB","QB","Ohio St.",1,11,11
+12265,"ParsMi00","Micah","Parsons",2021.00,"DE","LB","Penn St.",1,12,12
+12266,"SlatRa00","Rashawn","Slater",2021.00,"T","OL","Northwestern",1,13,13
+12267,"VeraAl00","Alijah","Vera-Tucker",2021.00,"G","OL","USC",1,14,14
+12268,"JoneMa05","Mac","Jones",2021.00,"QB","QB","Alabama",1,15,15
+12269,"CollZa00","Zaven","Collins",2021.00,"LB","LB","Tulsa",1,16,16
+12270,"LeatAl00","Alex","Leatherwood",2021.00,"T","OL","Alabama",1,17,17
+12271,"PhilJa02","Jaelan","Phillips",2021.00,"LB","DL","Miami (FL)",1,18,18
+12272,"DaviJa11","Jamin","Davis",2021.00,"LB","LB","Kentucky",1,19,19
+12273,"ToneKa00","Kadarius","Toney",2021.00,"WR","WR","Florida",1,20,20
+12274,"PayeKw00","Kwity","Paye",2021.00,"DE","DL","Michigan",1,21,21
+12275,"FarlCa00","Caleb","Farley",2021.00,"CB","DB","Virginia Tech",1,22,22
+12276,"DarrCh00","Christian","Darrisaw",2021.00,"T","OL","Virginia Tech",1,23,23
+12277,"HarrNa00","Najee","Harris",2021.00,"RB","RB","Alabama",1,24,24
+12278,"EtieTr00","Travis","Etienne",2021.00,"RB","RB","Clemson",1,25,25
+12279,"NewsGr00","Greg","Newsome II",2021.00,"CB","DB","Northwestern",1,26,26
+12280,"BateRa00","Rashod","Bateman",2021.00,"WR","WR","Minnesota",1,27,27
+12281,"TurnPa02","Payton","Turner",2021.00,"DE","DE","Houston",1,28,28
+12282,"StokEr00","Eric","Stokes",2021.00,"CB","DB","Georgia",1,29,29
+12283,"RousGr00","Greg","Rousseau",2021.00,"DE","DL","Miami (FL)",1,30,30
+12284,"OwehJa00","Odafe","Oweh",2021.00,"LB","DE","Penn St.",1,31,31
+12285,"TryoJo00","Joe","Tryon-Shoyinka",2021.00,"LB","OLB","Washington",1,32,32
+12286,"CampTy01","Tyson","Campbell",2021.00,"CB","DB","Georgia",2,1,33
+12287,"MoorEl00","Elijah","Moore",2021.00,"WR","WR","Mississippi",2,2,34
+12288,"WillJa10","Javonte","Williams",2021.00,"RB","RB","North Carolina",2,3,35
+12289,"HollJe02","Jevon","Holland",2021.00,"S","S","Oregon",2,4,36
+12290,"DickLa00","Landon","Dickerson",2021.00,"G","OL","Alabama",2,5,37
+12291,"BarmCh00","Christian","Barmore",2021.00,"DT","DL","Alabama",2,6,38
+12292,"JenkTe00","Teven","Jenkins",2021.00,"OL","OL","Oklahoma St.",2,7,39
+12293,"GranRi00","Richie","Grant",2021.00,"S","DB","Central Florida",2,8,40
+12294,"OnwuLe00","Levi","Onwuzurike",2021.00,"DT","DL","Washington",2,9,41
+12295,"EichLi00","Liam","Eichenberg",2021.00,"T","OL","Notre Dame",2,10,42
+12296,"MoehTr00","Tre'von","Moehrig",2021.00,"S","S","TCU",2,11,43
+12297,"JoseKe02","Kelvin","Joseph",2021.00,"CB","DB","Kentucky",2,12,44
+12298,"LittWa00","Walker","Little",2021.00,"T","OT","Stanford",2,13,45
+12299,"CarmJa00","Jackson","Carman",2021.00,"T","OT","Clemson",2,14,46
+12300,"SamuAs00","Asante","Samuel Jr.",2021.00,"CB","DB","Florida St.",2,15,47
+12301,"BankAa00","Aaron","Banks",2021.00,"G","OL","Notre Dame",2,16,48
+12302,"MoorRo02","Rondale","Moore",2021.00,"WR","WR","Purdue",2,17,49
+12303,"OjulAz00","Azeez","Ojulari",2021.00,"LB","OLB","Georgia",2,18,50
+12304,"CosmSa00","Samuel","Cosmi",2021.00,"G","OL","Texas",2,19,51
+12305,"OwusJe00","Jeremiah","Owusu-Koramoah",2021.00,"LB","LB","Notre Dame",2,20,52
+12306,"RaduDi00","Dillon","Radunz",2021.00,"OL","OT","North Dakota St.",2,21,53
+12307,"OdeyDa00","Dayo","Odeyingbo",2021.00,"DE","DL","Vanderbilt",2,22,54
+12308,"FreiPa00","Pat","Freiermuth",2021.00,"TE","TE","Penn St.",2,23,55
+12309,"EskrDW00","D'Wayne","Eskridge",2021.00,"WR","WR","Western Michigan",2,24,56
+12310,"AtweTu00","Tutu","Atwell",2021.00,"WR","WR","Louisville",2,25,57
+12311,"BoltNi00","Nick","Bolton",2021.00,"LB","LB","Missouri",2,26,58
+12312,"MarsTe00","Terrace","Marshall Jr.",2021.00,"WR","WR","LSU",2,27,59
+12313,"WernPe00","Pete","Werner",2021.00,"LB","LB","Ohio St.",2,28,60
+12314,"BashCa00","Boogie","Basham",2021.00,"LB","DL","Wake Forest",2,29,61
+12315,"MyerJo00","Josh","Myers",2021.00,"C","C","Ohio St.",2,30,62
+12316,"HumpCr00","Creed","Humphrey",2021.00,"C","OL","Oklahoma",2,31,63
+12317,"TrasKy00","Kyle","Trask",2021.00,"QB","QB","Florida",2,32,64
+12318,"CiscAn00","Andre","Cisco",2021.00,"S","DB","Syracuse",3,1,65
+12319,"MondKe00","Kellen","Mond",2021.00,"QB","QB","Texas A&M",3,2,66
+12320,"MillDa02","Davis","Mills",2021.00,"QB","QB","Stanford",3,3,67
+12321,"MayfJa00","Jalen","Mayfield",2021.00,"G","OL","Michigan",3,4,68
+12322,"OssaJo00","Joseph","Ossai",2021.00,"DE","LB","Texas",3,5,69
+12323,"ChriBr00","Brady","Christensen",2021.00,"G","OL","BYU",3,6,70
+12324,"RobiAa00","Aaron","Robinson",2021.00,"CB","DB","Central Florida",3,7,71
+12325,"McNeAl00","Alim","McNeill",2021.00,"DT","DT","North Carolina St.",3,8,72
+12326,"WillMi08","Milton","Williams",2021.00,"DE","DL","Louisiana Tech",3,9,73
+12327,"StJuBe00","Benjamin","St-Juste",2021.00,"CB","DB","Minnesota",3,10,74
+12328,"OdigOs00","Osa","Odighizuwa",2021.00,"DT","DL","UCLA",3,11,75
+12329,"AdebPa00","Paulson","Adebo",2021.00,"CB","CB","Stanford",3,12,76
+12330,"PalmJo00","Josh","Palmer",2021.00,"WR","WR","Tennessee",3,13,77
+12331,"SurrCh00","Chazz","Surratt",2021.00,"LB","LB","North Carolina",3,14,78
+12332,"KoonMa00","Malcolm","Koonce",2021.00,"DE","DE","Buffalo",3,15,79
+12333,"DeabDi00","Divine","Deablo",2021.00,"LB","DB","Virginia Tech",3,16,80
+12334,"LongHu00","Hunter","Long",2021.00,"TE","TE","Boston Col.",3,17,81
+12335,"BrowDy00","Dyami","Brown",2021.00,"WR","WR","North Carolina",3,18,82
+12336,"TremTo00","Tommy","Tremble",2021.00,"TE","TE","Notre Dame",3,19,83
+12337,"GolsCh00","Chauncey","Golston",2021.00,"DE","DL","Iowa",3,20,84
+12338,"RodgAm00","Amari","Rodgers",2021.00,"WR","WR","Clemson",3,21,85
+12339,"DaviWy00","Wyatt","Davis",2021.00,"G","OL","Ohio St.",3,22,86
+12340,"GreeKe02","Kendrick","Green",2021.00,"C","OL","Illinois",3,23,87
+12341,"SermTr00","Trey","Sermon",2021.00,"RB","RB","Ohio St.",3,24,88
+12342,"CollNi00","Nico","Collins",2021.00,"WR","WR","Michigan",3,25,89
+12343,"JonePa00","Patrick","Jones II",2021.00,"LB","DL","Pittsburgh",3,26,90
+12344,"SchwAn00","Anthony","Schwartz",2021.00,"WR","WR","Auburn",3,27,91
+12345,"RiceMo00","Monty","Rice",2021.00,"LB","LB","Georgia",3,28,92
+12346,"BrowSp00","Spencer","Brown",2021.00,"T","OL","Northern Iowa",3,29,93
+12347,"ClevBe00","Ben","Cleveland",2021.00,"G","OL","Georgia",3,30,94
+12348,"HainRo00","Robert","Hainsey",2021.00,"C","OL","Notre Dame",3,31,95
+12349,"PerkRo00","Ronnie","Perkins",2021.00,"LB","DE","Oklahoma",3,32,96
+12350,"McKiTr00","Tre'","McKitty",2021.00,"TE","TE","Georgia",3,33,97
+12351,"MeinQu02","Quinn","Meinerz",2021.00,"C","C","Wisconsin–Whitewater",3,34,98
+12352,"WrigNa00","Nahshon","Wright",2021.00,"CB","DB","Oregon St.",3,35,99
+12353,"MoldEl00","Elijah","Molden",2021.00,"CB","DB","Washington",3,36,100
+12354,"MeliIf00","Ifeatu","Melifonwu",2021.00,"S","DB","Syracuse",3,37,101
+12355,"ThomAm00","Ambry","Thomas",2021.00,"CB","DB","Michigan",3,38,102
+12356,"JoneEr01","Ernest","Jones",2021.00,"LB","LB","South Carolina",3,39,103
+12357,"StepBr01","Brandon","Stephens",2021.00,"CB","CB","SMU",3,40,104
+12358,"BrowBa01","Baron","Browning",2021.00,"LB","LB","Ohio St.",3,41,105
+12359,"TufeJa00","Jay","Tufele",2021.00,"DT","DL","USC",4,1,106
+12360,"CartMi03","Michael","Carter",2021.00,"RB","RB","North Carolina",4,2,107
+12361,"HallDa03","Darren","Hall",2021.00,"S","CB","San Diego St.",4,3,108
+12362,"FitzDe00","Dez","Fitzpatrick",2021.00,"WR","WR","Louisville",4,4,109
+12363,"HudsJa00","James","Hudson",2021.00,"T","OL","Cincinnati",4,5,110
+12364,"SampCa00","Cameron","Sample",2021.00,"DE","DE","Tulane",4,6,111
+12365,"StxxAm00","Amon-Ra","St. Brown",2021.00,"WR","WR","USC",4,7,112
+12366,"BarnDe02","Derrick","Barnes",2021.00,"LB","DE","Purdue",4,8,113
+12367,"DalmDr00","Drew","Dalman",2021.00,"C","C","Stanford",4,9,114
+12368,"CoxxJa00","Jabril","Cox",2021.00,"LB","LB","LSU",4,10,115
+12369,"SmitEl00","Elerson","Smith",2021.00,"DE","DL","Northern Iowa",4,11,116
+12370,"BrowBo04","Bobby","Brown III",2021.00,"DT","DL","Texas A&M",4,12,117
+12371,"RumpCh00","Chris","Rumph II",2021.00,"LB","DE","Duke",4,13,118
+12372,"NwanKe00","Kene","Nwangwu",2021.00,"RB","RB","Iowa St.",4,14,119
+12373,"StevRh00","Rhamondre","Stevenson",2021.00,"RB","RB","Oklahoma",4,15,120
+12374,"SmitJo03","Jordan","Smith",2021.00,"LB","OLB","Ala-Birmingham",4,16,121
+12375,"ShelTy00","Tyler","Shelvin",2021.00,"DT","DT","LSU",4,17,122
+12376,"McPhZe00","Zech","McPhearson",2021.00,"CB","DB","Texas Tech",4,18,123
+12377,"BateJo00","John","Bates",2021.00,"TE","TE","Boise St.",4,19,124
+12378,"BynuCa00","Camryn","Bynum",2021.00,"S","CB","California",4,20,125
+12379,"HubbCh01","Chuba","Hubbard",2021.00,"RB","RB","Oklahoma St.",4,21,126
+12380,"GranKy00","Kylen","Granson",2021.00,"TE","TE","SMU",4,22,127
+12381,"MoorDa05","Dan","Moore Jr.",2021.00,"T","OL","Texas A&M",4,23,128
+12382,"DardJa00","Jaelon","Darden",2021.00,"WR","WR","North Texas",4,24,129
+12383,"RochRo00","Robert","Rochell",2021.00,"CB","DB","Central Arkansas",4,25,130
+12384,"WallTy00","Tylan","Wallace",2021.00,"WR","WR","Oklahoma St.",4,26,131
+12385,"TogiTo00","Tommy","Togiai",2021.00,"DT","DT","Ohio St.",4,27,132
+12386,"BookIa00","Ian","Book",2021.00,"QB","QB","Notre Dame",4,28,133
+12387,"RobiJa04","Janarius","Robinson",2021.00,"DE","DE","Florida St.",4,29,134
+12388,"WeavRa00","Rashad","Weaver",2021.00,"LB","DL","Pittsburgh",4,30,135
+12389,"WilsMa04","Marco","Wilson",2021.00,"CB","CB","Florida",4,31,136
+12390,"BrowTr03","Tre","Brown",2021.00,"CB","CB","Oklahoma",4,32,137
+12391,"BallJo00","Josh","Ball",2021.00,"T","OL","Marshall",4,33,138
+12392,"SmitDA03","D'Ante","Smith",2021.00,"T","OT","East Carolina",4,34,139
+12393,"JohnBu01","Buddy","Johnson",2021.00,"LB","LB","Texas A&M",4,35,140
+12394,"HarrJa03","Jacob","Harris",2021.00,"WR","WR","Central Florida",4,36,141
+12395,"NewmRo00","Royce","Newman",2021.00,"G","G","Mississippi",4,37,142
+12396,"GillTy00","Tyree","Gillespie",2021.00,"S","S","Missouri",4,38,143
+12397,"KainJo00","Joshua","Kaindoh",2021.00,"DE","DE","Florida St.",4,39,144
+12398,"FarrLu00","Luke","Farrell",2021.00,"TE","TE","Ohio St.",5,1,145
+12399,"SherJa00","Jamien","Sherwood",2021.00,"LB","DB","Auburn",5,2,146
+12400,"JordBr00","Brevin","Jordan",2021.00,"TE","TE","Miami (FL)",5,3,147
+12401,"GrahTa00","Ta'Quon","Graham",2021.00,"DL","DL","Texas",5,4,148
+12402,"McPhEv00","Evan","McPherson",2021.00,"K","K","Florida",5,5,149
+12403,"GainKe00","Kenneth","Gainwell",2021.00,"RB","RB","Memphis",5,6,150
+12404,"BoroLa00","Larry","Borom",2021.00,"OL","OL","Missouri",5,7,151
+12405,"SterCa00","Caden","Sterns",2021.00,"S","DB","Texas",5,8,152
+12406,"FielTo00","Tony","Fields II",2021.00,"LB","LB","West Virginia",5,9,153
+12407,"CartMi02","Michael","Carter II",2021.00,"CB","S","Duke",5,10,154
+12408,"MoorJa04","Jaylon","Moore",2021.00,"T","OT","Western Michigan",5,11,155
+12409,"LoudIs00","Isaiahh","Loudermilk",2021.00,"DT","DE","Wisconsin",5,12,156
+12410,"SmitIh00","Ihmir","Smith-Marsette",2021.00,"WR","WR","Iowa",5,13,157
+12411,"NixoDa00","Daviyon","Nixon",2021.00,"DT","DT","Iowa",5,14,158
+12412,"JaimBr00","Brenden","Jaimes",2021.00,"OL","OL","Nebraska",5,15,159
+12413,"WadeSh00","Shaun","Wade",2021.00,"CB","CB","Ohio St.",5,16,160
+12414,"DoylTo00","Tommy","Doyle",2021.00,"T","OL","Miami (OH)",5,17,161
+12415,"GrayNo00","Noah","Gray",2021.00,"TE","TE","Duke",5,18,162
+12416,"ForrDa00","Darrick","Forrest",2021.00,"S","S","Cincinnati",5,19,163
+12417,"JohnJa15","Jamar","Johnson",2021.00,"S","DB","Indiana",5,20,164
+12418,"DaviSh02","Shawn","Davis",2021.00,"S","DB","Florida",5,21,165
+12419,"TaylKe03","Keith","Taylor",2021.00,"CB","DB","Washington",5,22,166
+12420,"HobbNa00","Nate","Hobbs",2021.00,"CB","CB","Illinois",5,23,167
+12421,"DaviZa00","Zach","Davidson",2021.00,"TE","TE","Central Missouri St.",5,24,168
+12422,"LeCoRi00","Richard","LeCounte",2021.00,"S","DB","Georgia",5,25,169
+12423,"WallGa00","Garret","Wallow",2021.00,"LB","LB","TCU",5,26,170
+12424,"HayeDa00","Daelin","Hayes",2021.00,"LB","DL","Notre Dame",5,27,171
+12425,"LenoDe00","Deommodore","Lenoir",2021.00,"CB","CB","Oregon",5,28,172
+12426,"SlatTe00","T. J.","Slaton",2021.00,"DT","DL","Florida",5,29,173
+12427,"BrowEa00","Earnest","Brown IV",2021.00,"DE","DE","Northwestern",5,30,174
+12428,"PinnJa01","Jason","Pinnock",2021.00,"S","CB","Pittsburgh",5,31,175
+12429,"BritKJ00","K.J.","Britt",2021.00,"LB","LB","Auburn",5,32,176
+12430,"McGrCa00","Cameron","McGrone",2021.00,"LB","LB","Michigan",5,33,177
+12431,"JeanSh00","Shemar","Jean-Charles",2021.00,"CB","DB","Appalachian St.",5,34,178
+12432,"FehoSi00","Simi","Fehoko",2021.00,"WR","WR","Stanford",5,35,179
+12433,"HufaTa00","Talanoa","Hufanga",2021.00,"S","S","USC",5,36,180
+12434,"PoweCo00","Cornell","Powell",2021.00,"WR","WR","Clemson",5,37,181
+12435,"OgunAd01","Adetokunbo","Ogundeji",2021.00,"LB","DL","Notre Dame",5,38,182
+12436,"WillAv02","Avery","Williams",2021.00,"RB","CB","Boise St.",5,39,183
+12437,"MasoBe00","Ben","Mason",2021.00,"TE","FB","Michigan",5,40,184
+12438,"NiemNi00","Nick","Niemann",2021.00,"LB","LB","Iowa",6,1,185
+12439,"NasiHa00","Hamsah","Nasirildeen",2021.00,"LB","DB","Florida St.",6,2,186
+12440,"DarbFr00","Frank","Darby",2021.00,"WR","WR","Arizona St.",6,3,187
+12441,"BledJo00","Joshuah","Bledsoe",2021.00,"S","S","Missouri",6,4,188
+12442,"TuipMa00","Marlon","Tuipulotu",2021.00,"DT","DL","USC",6,5,189
+12443,"HillTr03","Trey","Hill",2021.00,"C","OL","Georgia",6,6,190
+12444,"JackTa02","Tarron","Jackson",2021.00,"DE","DE","Coastal Carolina",6,7,191
+12445,"BohaQu00","Quinton","Bohanna",2021.00,"DT","DT","Kentucky",6,8,192
+12446,"BrowDe06","Deonte","Brown",2021.00,"G","OL","Alabama",6,9,193
+12447,"MitcEl00","Elijah","Mitchell",2021.00,"RB","RB","Louisiana",6,10,194
+12448,"LopeRo00","Roy","Lopez",2021.00,"DT","DL","Arizona",6,11,195
+12449,"BrigGa00","Gary","Brightwell",2021.00,"RB","RB","Arizona",6,12,196
+12450,"SherWi01","William","Sherman",2021.00,"T","OL","Colorado",6,13,197
+12451,"RounLa00","Larry","Rountree III",2021.00,"RB","RB","Missouri",6,14,198
+12452,"TwymJa00","Jaylen","Twyman",2021.00,"DT","DL","Pittsburgh",6,15,199
+12453,"EchoBr00","Brandin","Echols",2021.00,"CB","CB","Kentucky",6,16,200
+12454,"WillRo07","Rodarius","Williams",2021.00,"CB","CB","Oklahoma St.",6,17,201
+12455,"EvanCh02","Chris","Evans",2021.00,"RB","RB","Michigan",6,18,202
+12456,"StevMa00","Marquez","Stevenson",2021.00,"WR","WR","Houston",6,19,203
+12457,"SmitSh03","Shi","Smith",2021.00,"WR","WR","South Carolina",6,20,204
+12458,"McMaRa00","Racey","McMath",2021.00,"WR","WR","LSU",6,21,205
+12459,"YounLa00","Landon","Young",2021.00,"T","OT","Kentucky",6,22,206
+12460,"MarsJo00","Jonathan","Marshall",2021.00,"DT","DL","Arkansas",6,23,207
+12461,"ForsSt00","Stone","Forsythe",2021.00,"T","OL","Florida",6,24,208
+12462,"CampJa03","Jalen","Camp",2021.00,"WR","WR","Georgia Tech",6,25,209
+12463,"DimuVi00","Victor","Dimukeje",2021.00,"LB","DE","Duke",6,26,210
+12464,"FeltDe00","Demetric","Felton",2021.00,"RB","RB","UCLA",6,27,211
+12465,"HamlDa00","Damar","Hamlin",2021.00,"S","DB","Pittsburgh",6,28,212
+12466,"WildRa00","Rachad","Wildgoose Jr.",2021.00,"CB","CB","Wisconsin",6,29,213
+12467,"VanxCo00","Cole","Van Lanen",2021.00,"G","OL","Wisconsin",6,30,214
+12468,"BreeBr00","Brady","Breeze",2021.00,"S","S","Oregon",6,31,215
+12469,"RochQu00","Quincy","Roche",2021.00,"LB","DL","Miami (FL)",6,32,216
+12470,"HerbKh00","Khalil","Herbert",2021.00,"RB","RB","Virginia Tech",6,33,217
+12471,"EhliSa00","Sam","Ehlinger",2021.00,"QB","QB","Texas",6,34,218
+12472,"WillSe00","Seth","Williams",2021.00,"WR","WR","Auburn",6,35,219
+12473,"McDuIs00","Isaiah","McDuffie",2021.00,"LB","LB","Boston Col.",6,36,220
+12474,"NewsDa00","Dazz","Newsome",2021.00,"WR","WR","North Carolina",6,37,221
+12475,"FletTh00","Thomas","Fletcher",2021.00,"LS","LS","Alabama",6,38,222
+12476,"GowaTa00","Tay","Gowan",2021.00,"CB","DB","Central Florida",6,39,223
+12477,"StevJa00","JaCoby","Stevens",2021.00,"LB","S","LSU",6,40,224
+12478,"CheeCa00","Camaron","Cheeseman",2021.00,"LS","LS","Michigan",6,41,225
+12479,"SmitTr05","Trey","Smith",2021.00,"G","OL","Tennessee",6,42,226
+12480,"MukuIs00","Israel","Mukuamu",2021.00,"S","DB","South Carolina",6,43,227
+12481,"GrahTh00","Thomas","Graham Jr.",2021.00,"CB","CB","Oregon",6,44,228
+12482,"StraMi03","Mike","Strachan",2021.00,"WR","WR","Charleston (WV)",7,1,229
+12483,"MorrJi00","Jimmy","Morrissey",2021.00,"C","OL","Pittsburgh",7,2,230
+12484,"ColeLa03","Larnel","Coleman",2021.00,"T","OT","Massachusetts",7,3,231
+12485,"HoskPh00","Phil","Hoskins",2021.00,"DT","DT","Kentucky",7,4,232
+12486,"FunkJa00","Jake","Funk",2021.00,"RB","RB","Maryland",7,5,233
+12487,"JohnPa02","Patrick","Johnson",2021.00,"LB","DE","Tulane",7,6,234
+12488,"HubeWy00","Wyatt","Hubert",2021.00,"DE","DE","Kansas St.",7,7,235
+12489,"AndeJa01","Jack","Anderson",2021.00,"G","OL","Texas Tech",7,8,236
+12490,"VincKa00","Kary","Vincent Jr.",2021.00,"CB","CB","LSU",7,9,237
+12491,"FarnMa00","Matt","Farniok",2021.00,"G","G","Nebraska",7,10,238
+12492,"CoopJo02","Jonathon","Cooper",2021.00,"LB","DE","Ohio St.",7,11,239
+12493,"BradWi00","William","Bradley-King",2021.00,"DE","OLB","Baylor",7,12,240
+12494,"WebbMa01","Mark","Webb",2021.00,"S","DB","Georgia",7,13,241
+12495,"NixoTr01","Tre","Nixon",2021.00,"WR","WR","Central Florida",7,14,242
+12496,"WiggJa00","James","Wiggins",2021.00,"S","S","Cincinnati",7,15,243
+12497,"DoakGe00","Gerrid","Doaks",2021.00,"RB","RB","Cincinnati",7,16,244
+12498,"NorwTr00","Tre","Norwood",2021.00,"S","DB","Oklahoma",7,17,245
+12499,"ToneSh00","Shaka","Toney",2021.00,"DE","DE","Penn St.",7,18,246
+12500,"MeneMi00","Michal","Menet",2021.00,"C","OL","Penn St.",7,19,247
+12501,"FrieWi00","Will","Fries",2021.00,"G","OL","Penn St.",7,20,248
+12502,"SkowBe00","Ben","Skowronek",2021.00,"WR","WR","Notre Dame",7,21,249
+12503,"TongKh00","Khyiris","Tonga",2021.00,"DL","DL","BYU",7,22,250
+12504,"WilcCh00","Chris","Wilcox",2021.00,"CB","DB","BYU",7,23,251
+12505,"GarrCh00","Chris","Garrett",2021.00,"LB","DE","Concordia-St.Paul (MN)",7,24,252
+12506,"SpenMa00","Marquiss","Spencer",2021.00,"DE","DE","Mississippi St.",7,25,253
+12507,"HarvPr00","Pressley","Harvin III",2021.00,"P","P","Georgia Tech",7,26,254
+12508,"BakeKa00","Kawaan","Baker",2021.00,"WR","WR","South Alabama",7,27,255
+12509,"HillKy00","Kylin","Hill",2021.00,"RB","RB","Mississippi St.",7,28,256
+12510,"JeffJe00","Jermar","Jefferson",2021.00,"RB","RB","Oregon St.",7,29,257
+12511,"MilnDa00","Dax","Milne",2021.00,"WR","WR","BYU",7,30,258
+12512,"StuaGr00","Grant","Stuard",2021.00,"LB","LB","Houston",7,31,259
+12537,"HallKe01","Kemon","Hall",2021.00,"CB",,,,,
+12539,"WiseDa01","Daniel","Wise",2021.00,"DE",,,,,
+12540,"HeslGa00","Gavin","Heslop",2021.00,"CB",,,,,
+12541,"RotiBu00","Bunmi","Rotimi",2021.00,"DE",,,,,
+12543,"RhatJo00","Jon","Rhattigan",2021.00,"LB",,,,,
+12544,"WilcMi01","Mitchell","Wilcox",2021.00,"TE",,,,,
+12546,"PrenAd00","Adam","Prentice",2021.00,"FB",,,,,
+12547,"RiccGi00","Giovanni","Ricci",2021.00,"TE",,,,,
+12550,"GillBl00","Blake","Gillikin",2021.00,"P",,,,,
+12554,"HajrLi00","Lirim","Hajrullahu",2021.00,"K",,,,,
+12555,"KraeTo02","Tommy","Kraemer",2021.00,"G",,,,,
+12556,"JohnCa04","Caleb","Johnson",2021.00,"LB",,,,,
+12557,"PatrAa00","Aaron","Patrick",2021.00,"LB",,,,,
+12558,"GainIn00","Innis","Gaines",2021.00,"S",,,,,
+12559,"ForrMi00","Miller","Forristall",2021.00,"TE",,,,,
+12560,"MackLe01","Ledarius","Mack",2021.00,"DE",,,,,
+12562,"FfreMa00","Maurice","Ffrench",2021.00,"WR",,,,,
+12563,"GrifJo01","Jonas","Griffith",2021.00,"LB",,,,,
+12564,"EtheDo00","Dorian","Etheridge",2021.00,"LB",,,,,
+12565,"KamaSa00","Sam","Kamara",2021.00,"DE",,,,,
+12566,"ElliJa05","Jalen","Elliott",2021.00,"S",,,,,
+12567,"OgboAm00","Amen","Ogbongbemiga",2021.00,"LB",,,,,
+12568,"McCaMa02","Mac","McCain",2021.00,"CB",,,,,
+12569,"MoaxDa00","David","Moa",2021.00,"DT",,,,,
+12570,"BronJo01","Josiah","Bronson",2021.00,"DT",,,,,
+12571,"DunnIs00","Isaiah","Dunn",2021.00,"CB",,,,,
+12572,"JoneNa01","Naquan","Jones",2021.00,"DT",,,,,
+12574,"PattRi01","Riley","Patterson",2021.00,"K",,,,,
+12575,"HeflJa00","Jack","Heflin",2021.00,"DT",,,,,
+12576,"JohnJo06","Josh","Johnson",2021.00,"RB",,,,,
+12577,"HoecMi00","Michael","Hoecht",2021.00,"LB",,,,,
+12578,"JoneJa11","Jamir","Jones",2021.00,"LB",,,,,
+12579,"DalySc01","Scott","Daly",2021.00,"LS",,,,,
+12581,"BootDi00","Dicaprio","Bootle",2021.00,"CB",,,,,
+12582,"GoreDe00","Derrick","Gore",2021.00,"RB",,,,,
+12583,"JohnRa02","Raymond","Johnson III",2021.00,"DE",,,,,
+12585,"BankEr00","Eric","Banks",2021.00,"DE",,,,,
+12586,"ThomKi00","Kiondre","Thomas",2021.00,"CB",,,,,
+12587,"HamiLa01","La'Darius","Hamilton",2021.00,"DE",,,,,
+12589,"GilbMa02","Mark","Gilbert",2021.00,"CB",,"Duke",,,
+12590,"FaolAu00","Austin","Faoliu",2021.00,"DT",,,,,
+12591,"StraCo00","Connor","Strachan",2021.00,"LB",,"Boston Col.",,,
+12592,"ThomCo04","Cody","Thompson",2021.00,"WR",,"Toledo",,,
+12593,"TaylPa01","Patrick","Taylor",2021.00,"RB",,,,,
+12594,"KamaAz01","Azur","Kamara",2021.00,"LB",,,,,
+12595,"DaviJa10","Javaris","Davis",2021.00,"DB",,,,,
+12596,"CurhJa00","Jake","Curhan",2021.00,"T",,"California",,,
+12597,"CartTo01","Tory","Carter",2021.00,"FB",,,,,
+12598,"DwumMi00","Michael","Dwumfour",2021.00,"DL",,,,,
+12599,"StonDi00","Dillon","Stoner",2021.00,"WR",,,,,
+12600,"ElliCh00","Christian","Elliss",2021.00,"LB",,,,,
+12601,"WashAr00","Ar'Darius","Washington",2021.00,"S",,,,,
+12602,"RossDA03","D'Angelo","Ross",2021.00,"CB",,,,,
+12604,"WhitCo05","Cody","White",2021.00,"WR",,"Michigan St.",,,
+12605,"WillCh08","Chris","Williams",2021.00,"DT",,,,,
+12606,"WrigBr01","Brock","Wright",2021.00,"TE",,,,,
+12607,"WarrNi01","Nigel","Warrior",2021.00,"DB",,,,,
+12610,"WillJo16","Jonah","Williams",2021.00,"DE",,,,,
+12611,"MerrFo00","Forrest","Merrill",2021.00,"DT",,,,,
+12612,"WadeBa00","Barrington","Wade",2021.00,"LB",,,,,
+12613,"VeasJo00","Jordan","Veasy",2021.00,"WR",,,,,
+12614,"AndeZa02","Zayne","Anderson",2021.00,"S",,,,,
+12616,"ParkAJ00","A.J.","Parker",2021.00,"CB",,,,,
+12617,"KuntCh02","Christian","Kuntz",2021.00,"LS",,,,,
+12618,"MintAn00","Andre","Mintze",2021.00,"LB",,,,,
+12620,"ChacAn00","Andre","Chachere",2021.00,"S",,,,,
+12621,"AdamMy00","Myles","Adams",2021.00,"DE",,,,,
+12622,"DornMy01","Myles","Dorn",2021.00,"S",,,,,
+12623,"CoylTy00","Tyler","Coyle",2021.00,"S",,,,,
+12624,"AkerLa00","Landen","Akers",2021.00,"WR",,,,,
+12627,"JacoJe00","Jerry","Jacobs",2021.00,"CB",,,,,
+12628,"RobiCu00","Curtis","Robinson",2021.00,"LB",,,,,
+12629,"RozeCh00","Christian","Rozeboom",2021.00,"LB",,,,,
+12630,"BoltCu00","Curtis","Bolton",2021.00,"LB",,,,,
+12631,"SmitTJ00","T.J.","Smith",2021.00,"DT",,,,,
+12632,"StolJa00","Jack","Stoll",2021.00,"TE",,,,,
+12633,"WilsMa05","Marvin","Wilson",2021.00,"DT",,,,,
+12634,"WirtSt01","Steven","Wirtel",2021.00,"LS",,,,,
+12635,"YeboKe00","Kenny","Yeboah",2021.00,"TE",,,,,
+12636,"ArchDa01","Daniel","Archibong",2021.00,"DT",,,,,
+12637,"MontDJ01","D.J.","Montgomery",2021.00,"WR",,,,,
+12638,"RalsNi00","Nick","Ralston",2021.00,"FB",,,,,
+12639,"RashHa00","Hamilcar","Rashed Jr.",2021.00,"LB",,,,,
+12640,"ReyeSa00","Sammis","Reyes",2021.00,"TE",,,,,
+12641,"AmmeMa00","Matt","Ammendola",2021.00,"K",,,,,
+12642,"JohnBr05","Brian","Johnson",2021.00,"K",,,,,
+12643,"BlewCh00","Chris","Blewitt",2021.00,"K",,,,,
+12644,"EberDo01","Dominik","Eberle",2021.00,"K",,,,,
+12645,"NaggCh00","Chris","Naggar",2021.00,"K",,,,,
+12646,"SipoAr01","Arryn","Siposs",2021.00,"P",,,,,
+12647,"NiziCa00","Cameron","Nizialek",2021.00,"P",,,,,
+12648,"WaitCo00","Corliss","Waitman",2021.00,"P",,,,,
+12649,"KessAl00","Alex","Kessman",2021.00,"K",,,,,
+12650,"WinsEa00","Easop","Winston",2021.00,"WR",,,,,
+12651,"KoskJJ00","J.J.","Koski",2021.00,"WR",,,,,
+12652,"BandMi00","Michael","Bandy",2021.00,"WR",,,,,
+12654,"WillPo01","Pooka","Williams",2021.00,"WR",,,,,
+12655,"HardJa01","JaQuan","Hardy",2021.00,"RB",,,,,
+12656,"FranFe00","Feleipe","Franks",2021.00,"TE",,,,,
+12658,"JackTy01","Tyree","Jackson",2021.00,"TE",,,,,
+12659,"HudsTo00","Tommy","Hudson",2021.00,"TE",,,,,
+12660,"WolfEt00","Ethan","Wolf",2021.00,"TE",,,,,
+12662,"ZylsSh00","Shane","Zylstra",2021.00,"TE",,,,,
+12664,"RagaTr00","Trey","Ragas",2021.00,"RB",,,,,
+12665,"SaunCJ00","C.J.","Saunders",2021.00,"WR",,,,,
+12666,"SillDa01","David","Sills V",2021.00,"WR",,,,,
+12668,"BlacTa00","Tarik","Black",2021.00,"WR",,,,,
+12670,"BensTr00","Trinity","Benson",2021.00,"WR",,,,,
+12672,"FortJo01","Jody","Fortson",2021.00,"TE",,,,,
+12673,"WeslAn01","Antoine","Wesley",2021.00,"WR",,,,,
+12674,"HessPa00","Parker","Hesse",2021.00,"TE",,,,,
+12675,"PattJa01","Jaret","Patterson",2021.00,"RB",,,,,
+12676,"WillTy01","Ty'Son","Williams",2021.00,"RB",,"BYU",,,
+12677,"JackDe02","Deon","Jackson",2021.00,"RB",,"Duke",,,
+12678,"SargMe00","Mekhi","Sargent",2021.00,"RB",,,,,
+12679,"CrocDa01","Damarea","Crockett",2021.00,"RB",,,,,
+12680,"BenkKu01","Kurt","Benkert",2021.00,"QB",,,,,
+12681,"PatrJa01","Jacques","Patrick",2021.00,"RB",,,,,
+12682,"McCrNa00","Nate","McCrary",2021.00,"RB",,,,,
+12683,"McBrTr01","Trey","McBride",2022.00,"TE","TE","Colorado St.",2,23,55
+12684,"SandMy00","Myjai","Sanders",2022.00,"LB","DE","Cincinnati",3,36,100
+12685,"SmitLe01","Lecitus","Smith",2022.00,"OL","OL","Virginia Tech",6,36,215
+12686,"MattCh01","Christian","Matthew",2022.00,"CB","DB","Valdosta St.",7,23,244
+12687,"ThomCa03","Cameron","Thomas",2022.00,"LB","DE","San Diego St.",3,23,87
+12688,"IngrKe01","Keaontay","Ingram",2022.00,"RB","RB","USC",6,22,201
+12689,"LukeJe00","Jesse","Luketa",2022.00,"LB","LB","Penn St.",7,35,256
+12690,"HayeMa00","Marquis","Hayes",2022.00,"OL","OL","Oklahoma",7,36,257
+12691,"AndeTr00","Troy","Andersen",2022.00,"LB","LB","Montana St.",2,26,58
+12692,"LondDr00","Drake","London",2022.00,"WR","WR","USC",1,8,8
+12693,"RiddDe00","Desmond","Ridder",2022.00,"QB","QB","Cincinnati",3,10,74
+12694,"ShafJu00","Justin","Shaffer",2022.00,"G","OL","Georgia",6,11,190
+12695,"FitzJo00","John","FitzPatrick",2022.00,"TE","TE","Georgia",6,34,213
+12696,"EbikAr00","Arnold","Ebiketie",2022.00,"LB","DE","Penn St.",2,6,38
+12697,"AllgTy00","Tyler","Allgeier",2022.00,"RB","RB","BYU",5,8,151
+12698,"MaloDe00","DeAngelo","Malone",2022.00,"LB","DE","Western Kentucky",3,18,82
+12699,"JoneTr00","Travis","Jones",2022.00,"DT","DT","Connecticut",3,12,76
+12700,"StouJo00","Jordan","Stout",2022.00,"P","P","Penn St.",4,25,130
+12701,"OjabDa00","David","Ojabo",2022.00,"LB","LB","Michigan",2,13,45
+12702,"BadiTy00","Tyler","Badie",2022.00,"RB","RB","Missouri",6,17,196
+12703,"LindTy00","Tyler","Linderbaum",2022.00,"C","OL","Iowa",1,25,25
+12704,"ArmoJa00","Jalyn","Armour-Davis",2022.00,"CB","DB","Alabama",4,14,119
+12705,"KolaCh00","Charlie","Kolar",2022.00,"TE","TE","Iowa St.",4,23,128
+12706,"HamiKy00","Kyle","Hamilton",2022.00,"S","SAF","Notre Dame",1,14,14
+12707,"LikeIs00","Isaiah","Likely",2022.00,"TE","TE","Coastal Carolina",4,34,139
+12708,"WillDa15","Damarion","Williams",2022.00,"CB","CB","Houston",4,36,141
+12709,"FaalDa00","Daniel","Faalele",2022.00,"T","T","Minnesota",4,5,110
+12710,"CookJa01","James","Cook",2022.00,"RB","RB","Georgia",2,31,63
+12711,"TenuLu00","Luke","Tenuta",2022.00,"T","OL","Virginia Tech",6,30,209
+12712,"BernTe00","Terrel","Bernard",2022.00,"LB","LB","Baylor",3,25,89
+12713,"BenfCh00","Christian","Benford",2022.00,"CB","DB","Villanova",6,6,185
+12714,"AraiMa00","Matt","Araiza",2022.00,"P","P","San Diego St.",6,1,180
+12715,"ShakKh00","Khalil","Shakir",2022.00,"WR","WR","Boise St.",5,5,148
+12716,"ElamKa00","Kaiir","Elam",2022.00,"CB","CB","Florida",1,23,23
+12717,"SpecBa00","Baylon","Spector",2022.00,"LB","LB","Clemson",7,10,231
+12718,"BarnAm00","Amare","Barno",2022.00,"LB","DE","Virginia Tech",6,10,189
+12719,"SmitBr08","Brandon","Smith",2022.00,"LB","LB","Penn St.",4,15,120
+12720,"MaysCa00","Cade","Mays",2022.00,"C","OL","Tennessee",6,20,199
+12721,"EkwoIk00","Ikem","Ekwonu",2022.00,"T","T","North Carolina St.",1,6,6
+12722,"BarnKa00","Kalon","Barnes",2022.00,"CB","CB","Baylor",7,21,242
+12723,"CorrMa00","Matt","Corral",2022.00,"QB","QB","Mississippi",3,30,94
+12724,"KramDo01","Doug","Kramer",2022.00,"OL","OL","Illinois",6,28,207
+12725,"ThomZa04","Zach","Thomas",2022.00,"T","OL","San Diego St.",6,7,186
+12726,"HickEl00","Elijah","Hicks",2022.00,"S","SAF","California",7,33,254
+12727,"GillTr01","Trenton","Gill",2022.00,"P","P","North Carolina St.",7,34,255
+12728,"EbneTr00","Trestan","Ebner",2022.00,"RB","RB","Baylor",6,24,203
+12729,"RobiDo00","Dominique","Robinson",2022.00,"DE","DE","Miami (OH)",5,31,174
+12730,"GordKy00","Kyler","Gordon",2022.00,"CB","CB","Washington",2,7,39
+12731,"CartJa04","Ja'Tyre","Carter",2022.00,"G","OL","Southern",7,5,226
+12732,"JoneVe00","Velus","Jones",2022.00,"WR","WR","Tennessee",3,7,71
+12733,"BrisJa01","Jaquan","Brisker",2022.00,"S","SAF","Penn St.",2,16,48
+12734,"JoneBr08","Braxton","Jones",2022.00,"OL","OL","Southern Utah",5,25,168
+12735,"CartZa00","Zachary","Carter",2022.00,"DT","DE","Florida",3,31,95
+12736,"VolsCo02","Cordell","Volson",2022.00,"G","T","North Dakota St.",4,31,136
+12737,"GuntJe01","Jeffrey","Gunter",2022.00,"DE","OLB","Coastal Carolina",7,31,252
+12738,"AndeTy00","Tycen","Anderson",2022.00,"S","SAF","Toledo",5,23,166
+12739,"HillDa04","Dax","Hill",2022.00,"CB","DB","Michigan",1,31,31
+12740,"TaylCa01","Cam","Taylor-Britt",2022.00,"CB","CB","Nebraska",2,28,60
+12741,"FordJe00","Jerome","Ford",2022.00,"RB","RB","Cincinnati",5,13,156
+12742,"WinfPe00","Perrion","Winfrey",2022.00,"DT","DT","Oklahoma",4,3,108
+12743,"BellDa02","David","Bell",2022.00,"WR","WR","Purdue",3,35,99
+12744,"YorkCa00","Cade","York",2022.00,"K","K","LSU",4,19,124
+12745,"ThomIs01","Isaiah","Thomas",2022.00,"DE","DE","Oklahoma",7,2,223
+12746,"EmerMa00","Martin","Emerson",2022.00,"CB","CB","Mississippi St.",3,4,68
+12747,"WrigAl01","Alex","Wright",2022.00,"DE","DE","Ala-Birmingham",3,14,78
+12748,"WoodMi00","Michael","Woods",2022.00,"WR","WR","Oklahoma",6,23,202
+12749,"DeatDa00","Dawson","Deaton",2022.00,"G","OL","Texas Tech",7,25,246
+12750,"RidgJo00","John","Ridgeway",2022.00,"DT","DT","Arkansas",5,35,178
+12751,"SmitTy02","Tyler","Smith",2022.00,"T","OL","Tulsa",1,24,24
+12752,"HarpDe00","Devin","Harper",2022.00,"LB","LB","Oklahoma St.",6,14,193
+12753,"BlanDa00","DaRon","Bland",2022.00,"CB","DB","Fresno St.",5,24,167
+12754,"ClarDa02","Damone","Clark",2022.00,"LB","LB","LSU",5,33,176
+12755,"FergJa00","Jake","Ferguson",2022.00,"TE","TE","Wisconsin",4,24,129
+12756,"WillSa00","Sam","Williams",2022.00,"DE","DE","Mississippi",2,24,56
+12757,"TolbJa00","Jalen","Tolbert",2022.00,"WR","WR","South Alabama",3,24,88
+12758,"WaleMa00","Matt","Waletzko",2022.00,"T","OL","North Dakota",5,12,155
+12759,"TurnDe02","Delarrin","Turner-Yell",2022.00,"S","SAF","Oklahoma",5,9,152
+12760,"MathDa00","Damarri","Mathis",2022.00,"CB","DB","Pittsburgh",4,10,115
+12761,"WattLu00","Luke","Wattenberg",2022.00,"C","OL","Washington",5,28,171
+12762,"HennMa01","Matt","Henningsen",2022.00,"DE","DE","Wisconsin",6,27,206
+12763,"BoniNi00","Nik","Bonitto",2022.00,"LB","OLB","Oklahoma",2,32,64
+12764,"HickFa00","Faion","Hicks",2022.00,"CB","CB","Wisconsin",7,11,232
+12765,"DulcGr00","Greg","Dulcich",2022.00,"TE","TE","UCLA",3,16,80
+12766,"UwazEy00","Eyioma","Uwazurike",2022.00,"DE","DE","Iowa St.",4,11,116
+12767,"WashMo00","Montrell","Washington",2022.00,"WR","WR","Samford",5,19,162
+12768,"HousJa01","James","Houston",2022.00,"DE","LB","Jackson St.",6,38,217
+12769,"LucaCh01","Chase","Lucas",2022.00,"CB","DB","Arizona St.",7,16,237
+12770,"PascJo00","Josh","Paschal",2022.00,"DE","DE","Kentucky",2,14,46
+12771,"JoseKe03","Kerby","Joseph",2022.00,"S","DB","Illinois",3,33,97
+12772,"WillJa11","Jameson","Williams",2022.00,"WR","WR","Alabama",1,12,12
+12773,"MitcJa00","James","Mitchell",2022.00,"TE","TE","Virginia Tech",5,34,177
+12774,"RodrMa00","Malcolm","Rodriguez",2022.00,"LB","LB","Oklahoma St.",6,9,188
+12775,"HutcAi00","Aidan","Hutchinson",2022.00,"DE","DE","Michigan",1,2,2
+12776,"DoubRo00","Romeo","Doubs",2022.00,"WR","WR","Nevada",4,27,132
+12777,"WyatDe00","Devonte","Wyatt",2022.00,"DT","DT","Georgia",1,28,28
+12778,"WatsCh00","Christian","Watson",2022.00,"WR","WR","North Dakota St.",2,2,34
+12779,"TomxZa00","Zach","Tom",2022.00,"OL","OL","Wake Forest",4,35,140
+12780,"RhyaSe00","Sean","Rhyan",2022.00,"G","OL","UCLA",3,28,92
+12781,"WalkQu00","Quay","Walker",2022.00,"LB","LB","Georgia",1,22,22
+12782,"EnagKi00","Kingsley","Enagbare",2022.00,"DL","DE","South Carolina",5,36,179
+12783,"FordJo00","Jonathan","Ford",2022.00,"DT","DT","Miami (FL)",7,13,234
+12784,"TourSa00","Samori","Toure",2022.00,"WR","WR","Nebraska",7,37,258
+12785,"WalkRa00","Rasheed","Walker",2022.00,"T","OL","Penn St.",7,28,249
+12786,"CarpTa00","Tariq","Carpenter",2022.00,"LB","DB","Georgia Tech",7,7,228
+12787,"StinDe00","Derek","Stingley",2022.00,"CB","CB","LSU",1,3,3
+12788,"DecuAu00","Austin","Deculus",2022.00,"T","T","LSU",6,26,205
+12789,"PitrJa00","Jalen","Pitre",2022.00,"S","SAF","Baylor",2,5,37
+12790,"HarrCh06","Christian","Harris",2022.00,"LB","LB","Alabama",3,11,75
+12791,"PierDa01","Dameon","Pierce",2022.00,"RB","RB","Florida",4,2,107
+12792,"QuitTe00","Teagan","Quitoriano",2022.00,"TE","TE","Oregon St.",5,27,170
+12793,"MetcJo00","John","Metchie",2022.00,"WR","WR","Alabama",2,12,44
+12794,"BookTh00","Thomas","Booker",2022.00,"DT","DE","Stanford",5,7,150
+12795,"GreeKe03","Kenyon","Green",2022.00,"G","OL","Texas A&M",1,15,15
+12796,"RaimBe00","Bernhard","Raimann",2022.00,"T","OL","Central Michigan",3,13,77
+12797,"CrosNi00","Nick","Cross",2022.00,"S","DB","Maryland",3,32,96
+12798,"OgleAn00","Andrew","Ogletree",2022.00,"TE","TE","Youngstown St.",6,13,192
+12799,"BrooCu00","Curtis","Brooks",2022.00,"DT","DT","Cincinnati",6,37,216
+12800,"JohnEr01","Eric","Johnson",2022.00,"DT","DT","Missouri State",5,16,159
+12801,"WoodJe01","Jelani","Woods",2022.00,"TE","TE","Virginia",3,9,73
+12802,"PierAl00","Alec","Pierce",2022.00,"WR","WR","Cincinnati",2,21,53
+12803,"ThomRo07","Rodney","Thomas II",2022.00,"S","LB","Yale",7,18,239
+12804,"ConnSn00","Snoop","Conner",2022.00,"RB","RB","Mississippi",5,11,154
+12805,"MumaCh00","Chad","Muma",2022.00,"LB","LB","Wyoming",3,6,70
+12806,"LloyDe00","Devin","Lloyd",2022.00,"LB","LB","Utah",1,27,27
+12807,"FortLu01","Luke","Fortner",2022.00,"G","G","Kentucky",3,1,65
+12808,"BrowMo00","Montaric","Brown",2022.00,"CB","DB","Arkansas",7,1,222
+12809,"WalkTr03","Travon","Walker",2022.00,"DE","DE","Georgia",1,1,1
+12810,"JuniGr00","Gregory","Junior",2022.00,"CB","CB","Ouachita Baptist",6,18,197
+12811,"McDuTr00","Trent","McDuffie",2022.00,"CB","CB","Washington",1,21,21
+12812,"MoorSk01","Skyy","Moore",2022.00,"WR","WR","Western Michigan",2,22,54
+12813,"CookBr02","Bryan","Cook",2022.00,"S","SAF","Cincinnati",2,30,62
+12814,"WatsJa02","Jaylen","Watson",2022.00,"CB","DB","Washington St.",7,22,243
+12815,"ChenLe00","Leo","Chenal",2022.00,"LB","LB","Wisconsin",3,39,103
+12816,"KarlGe00","George","Karlaftis",2022.00,"DE","DE","Purdue",1,30,30
+12817,"PachIs00","Isiah","Pacheco",2022.00,"RB","RB","Rutgers",7,30,251
+12818,"KinnDa00","Darian","Kinnard",2022.00,"T","T","Kentucky",5,2,145
+12819,"WillJo03","Joshua","Williams",2022.00,"CB","CB","Fayetteville St.",4,30,135
+12820,"JohnNa01","Nazeeh","Johnson",2022.00,"S","SAF","Marshall",7,38,259
+12821,"EzukEr00","Erik","Ezukanma",2022.00,"WR","WR","Texas Tech",4,20,125
+12822,"TindCh00","Channing","Tindall",2022.00,"LB","LB","Georgia",3,38,102
+12823,"GoodCa00","Cameron","Goode",2022.00,"LB","OLB","California",7,3,224
+12824,"ThomSk00","Skylar","Thompson",2022.00,"QB","QB","Kansas St.",7,26,247
+12825,"OtomEs00","Esezi","Otomewo",2022.00,"DE","DT","Minnesota",5,22,165
+12826,"EvanAk00","Akayleb","Evans",2022.00,"CB","DB","Missouri",4,13,118
+12827,"ChanTy01","Ty","Chandler",2022.00,"RB","RB","North Carolina",5,26,169
+12828,"LoweVe00","Vederian","Lowe",2022.00,"T","OL","Illinois",6,5,184
+12829,"CineLe00","Lewis","Cine",2022.00,"S","DB","Georgia",1,32,32
+12830,"AsamBr00","Brian","Asamoah",2022.00,"LB","LB","Oklahoma",3,2,66
+12831,"BootAn00","Andrew","Booth",2022.00,"CB","CB","Clemson",2,10,42
+12832,"NailJa00","Jalen","Nailor",2022.00,"WR","WR","Michigan St.",6,12,191
+12833,"IngrEd00","Ed","Ingram",2022.00,"G","G","LSU",2,27,59
+12834,"MuseNi00","Nick","Muse",2022.00,"TE","TE","South Carolina",7,6,227
+12835,"JoneJa10","Jack","Jones",2022.00,"CB","DB","Arizona St.",4,16,121
+12836,"ZappBa00","Bailey","Zappe",2022.00,"QB","QB","Western Kentucky",4,32,137
+12837,"HineCh00","Chasen","Hines",2022.00,"G","G","LSU",6,31,210
+12838,"StroPi00","Pierre","Strong",2022.00,"RB","RB","South Dakota St.",4,22,127
+12839,"ThorTy00","Tyquan","Thornton",2022.00,"WR","WR","Baylor",2,18,50
+12840,"RobeSa00","Sam","Roberts",2022.00,"DT","DE","NW Missouri St.",6,21,200
+12841,"JoneMa06","Marcus","Jones",2022.00,"CB","CB","Houston",3,21,85
+12842,"StueAn00","Andrew","Stueber",2022.00,"T","OL","Michigan",7,24,245
+12843,"HarrKe01","Kevin","Harris",2022.00,"RB","RB","South Carolina",6,4,183
+12844,"StraCo01","Cole","Strange",2022.00,"G","OL","Chattanooga",1,29,29
+12845,"TaylAl01","Alontae","Taylor",2022.00,"CB","DB","Tennessee",2,17,49
+12846,"JackJo06","Jordan","Jackson",2022.00,"DT","DT","Air Force",6,15,194
+12847,"OlavCh00","Chris","Olave",2022.00,"WR","WR","Ohio St.",1,11,11
+12848,"JackDM00","D'Marco","Jackson",2022.00,"LB","LB","Appalachian St.",5,18,161
+12849,"PennTr00","Trevor","Penning",2022.00,"T","T","Northern Iowa",1,19,19
+12850,"BeavDa00","Darrian","Beavers",2022.00,"LB","LB","Cincinnati",6,3,182
+12851,"EzeuJo00","Joshua","Ezeudu",2022.00,"G","OL","North Carolina",3,3,67
+12852,"FlotCo00","Cor'Dale","Flott",2022.00,"CB","CB","LSU",3,17,81
+12853,"DaviDJ00","D.J.","Davidson",2022.00,"DT","DT","Arizona St.",5,4,147
+12854,"NealEv00","Evan","Neal",2022.00,"T","OL","Alabama",1,7,7
+12855,"McFaMi01","Micah","McFadden",2022.00,"LB","LB","Indiana",5,3,146
+12856,"RobiWa01","Wan'Dale","Robinson",2022.00,"WR","WR","Kentucky",2,11,43
+12857,"McKeMa01","Marcus","McKethan",2022.00,"OL","OL","North Carolina",5,30,173
+12858,"BeltDa00","Dane","Belton",2022.00,"S","DB","Iowa",4,9,114
+12859,"ThibKa00","Kayvon","Thibodeaux",2022.00,"LB","DE","Oregon",1,5,5
+12860,"BellDa00","Daniel","Bellinger",2022.00,"TE","TE","San Diego St.",4,7,112
+12861,"JohnJe07","Jermaine","Johnson",2022.00,"LB","LB","Florida St.",1,26,26
+12862,"WilsGa00","Garrett","Wilson",2022.00,"WR","WR","Ohio St.",1,10,10
+12863,"MitcMa02","Max","Mitchell",2022.00,"T","T","Louisiana",4,6,111
+12864,"GardSa00","Sauce","Gardner",2022.00,"CB","CB","Cincinnati",1,4,4
+12865,"ClemMi03","Micheal","Clemons",2022.00,"DT","DT","Texas A&M",4,12,117
+12866,"RuckJe00","Jeremy","Ruckert",2022.00,"TE","TE","Ohio St.",3,37,101
+12867,"HallBr03","Breece","Hall",2022.00,"RB","RB","Iowa St.",2,4,36
+12868,"ParhDy00","Dylan","Parham",2022.00,"G","OL","Memphis",3,26,90
+14203,"AhleHo00","Holton","Ahlers",,"QB",,"Eastern Carolina",,,
+14204,"HarrJa06","Jared","Harrison-Hunte",,"DE",,"SMU",,,
+14205,"SaulBe00","Ben","Sauls",2025.00,"K",,"Pittsburgh",,,
+14206,"ChisEf00","Efton","Chism",2025.00,"WR",,"Eastern Washington",,,
+14207,,"Marque","Collins",,"CB",,"BYU",,,
+14208,"EtieCa00","Caleb","Etienne",,"T",,"BYU",,,
+14209,"FitzRy01","Ryan","Fitzgerald",2025.00,"K",,"Florida St.",,,
+14210,"HoldTr00","Traeshon","Holden",,"WR",,"Oregon",,,
+14211,,"Jordan","Riley",,"S",,"Kansas State",,,
+14212,"RunyCa00","Carter","Runyon",2025.00,"TE",,"Towson",,,
+14213,"YuroBe00","Ben","Yurosek",2025.00,"TE",,"Georgia",,,
+14214,"AlexZy00","Zy","Alexander",,"CB",,"LSU",,,
+14215,"ClarAl01","Alijah","Clark",2025.00,"DB",,"Syracuse",,,
+14216,"DolaSh00","Shaun","Dolac",2025.00,"LB",,"Buffalo",,,
+14217,"DotsMe00","Mello","Dotson",,"CB",,"Kansas",,,
+14218,"FeltDa00","Da'Quan","Felton",,"WR",,"Virginia Tech",,,
+14219,,"C.J.","Ogbonna",,"QB",,"Buffalo",,,
+14220,"RestXa00","Xavier","Restrepo",2025.00,"WR",,"Miami",,,
+14221,"ShepWi00","Will","Sheppard",,"WR",,"Colorado",,,
+14222,"ThomOm00","Omari","Thomas",,"DT",,"Tennessee",,,
+14223,"CampDa01","Dalevon","Campbell",2025.00,"WR",,"South Carolina",,,
+14224,,"Ira","Armstead",,"DE",,"Eastern Illinois",,,
+14225,"GordTh00","Thomas","Gordon",,"TE",,"Northwestern",,,
+14226,,"Alex","Howard",,"LB",,"Duke",,,
+14227,"LangMa0","Marshall","Lang",,"TE",,"Northwestern",,,
+14228,,"Graham","Nicholson",,"K",,"Alabama",,,
+14229,,"Dartanyan","Tinsley",,"G",,"Cincinnati",,,
+14230,"BarrJu00","Justin","Barron",2025.00,"LB",,"Syracuse",,,
+14231,"FairRi00","Rivaldo","Fairweather",,"TE",,"Auburn",,,
+14232,,"Taylor","Elgersma",,"QB",,"Buffalo",,,
+14233,"JoneNa02","Nash","Jones",,"G",,"Texas State",,,
+14234,"KroeKa00","Kai","Kroeger",2025.00,"P",,"South Carolina",,,
+14235,"WediTr00","Trey","Wedig",,"T",,"Indiana",,,
+14236,"BoonPe00","Peny","Boone",,"RB",,"Central Florida",,,
+14237,"BayeJa0","Jacob","Bayer",,"C",,"Arkansas St.",,,
+14238,"ColeSe00","Seth","Coleman",,"DE",,"Illinois",,,
+14239,"CoopDa00","Dalton","Cooper",,"T",,"Oklahoma St.",,,
+14240,"KiltEa00","Easton","Kilty",,"T",,"Kansas St.",,,
+14241,,"Landon","Parker",,"WR",,"Troy",,,
+14242,"PoleEs00","Esa","Pole",2025.00,"T",,"Washington St.",,,
+14243,"MascEa00","Easton","Mascarenas-Arnold",2025.00,"LB",,"USC",,,
+14244,,"B.J.","Mayes",,"CB",,"Texas A&M",,,
+14245,,"Allen","Walker",,"LB",,"Jackson St.",,,
+14246,"PondEl02","Elijah","Ponder",,"LB",,"Cal Poly",,,
+14247,,"Monray","Baldwin",,"WR",,"Baylor",,,
+12869,"ButlMa02","Matthew","Butler",2022.00,"DT","DT","Tennessee",5,32,175
+12870,"MunfTh00","Thayer","Munford",2022.00,"T","OL","Ohio St.",7,17,238
+12871,"FarrNe00","Neil","Farrell",2022.00,"DE","DT","LSU",4,21,126
+12872,"BrowBr06","Brittain","Brown",2022.00,"RB","RB","UCLA",7,29,250
+12873,"WhitZa01","Zamir","White",2022.00,"RB","RB","Georgia",4,17,122
+12874,"JurgCa01","Cameron","Jurgens",2022.00,"OL","OL","Nebraska",2,19,51
+12875,"DaviJo03","Jordan","Davis",2022.00,"DT","DT","Georgia",1,13,13
+12876,"CalcGr00","Grant","Calcaterra",2022.00,"TE","TE","SMU",6,19,198
+12877,"DeanNa00","Nakobe","Dean",2022.00,"LB","LB","Georgia",3,19,83
+12878,"JohnKy02","Kyron","Johnson",2022.00,"LB","DE","Kansas",6,2,181
+12879,"AustCa00","Calvin","Austin III",2022.00,"WR","WR","Memphis",4,33,138
+12880,"PickGe00","George","Pickens",2022.00,"WR","WR","Georgia",2,20,52
+12881,"LealDe00","DeMarvin","Leal",2022.00,"DE","DT","Texas A&M",3,20,84
+12882,"PickKe00","Kenny","Pickett",2022.00,"QB","QB","Pittsburgh",1,20,20
+12883,"OladCh00","Chris","Oladokun",2022.00,"QB","QB","South Dakota St.",7,20,241
+12884,"RobiMa03","Mark","Robinson",2022.00,"LB","LB","Mississippi",7,4,225
+12885,"HeywCo00","Connor","Heyward",2022.00,"TE","TE","Michigan St.",6,29,208
+12886,"SpilIs00","Isaiah","Spiller",2022.00,"RB","RB","Texas A&M",4,18,123
+12887,"LeonDe00","Deane","Leonard",2022.00,"DB","DB","Mississippi",7,15,236
+12888,"HorvZa00","Zander","Horvath",2022.00,"FB","RB","Purdue",7,39,260
+12889,"WoodJT00","JT","Woods",2022.00,"S","SAF","Baylor",3,15,79
+12890,"TaylJa04","Ja'Sir","Taylor",2022.00,"DB","DB","Wake Forest",6,35,214
+12891,"OgboOt00","Otito","Ogbonnia",2022.00,"DT","DT","UCLA",5,17,160
+12892,"SalyJa00","Jamaree","Salyer",2022.00,"OL","OL","Georgia",6,16,195
+12893,"JohnZi00","Zion","Johnson",2022.00,"G","G","Boston Col.",1,17,17
+12894,"BryaCo01","Coby","Bryant",2022.00,"CB","CB","Cincinnati",4,4,109
+12895,"WalkKe00","Kenneth","Walker III",2022.00,"RB","RB","Michigan St.",2,9,41
+12896,"LucaAb00","Abraham","Lucas",2022.00,"T","OL","Washington St.",3,8,72
+12897,"CrosCh00","Charles","Cross",2022.00,"T","OL","Mississippi St.",1,9,9
+12898,"MeltBo00","Bo","Melton",2022.00,"CB","WR","Rutgers",7,8,229
+12899,"WoolTa00","Tariq","Woolen",2022.00,"CB","CB","Texas-San Antonio",5,10,153
+12900,"SmitTy03","Tyreke","Smith",2022.00,"LB","DE","Ohio St.",5,15,158
+12901,"YounDa02","Dareke","Young",2022.00,"WR","WR","Lenoir-Rhyne",7,12,233
+12902,"MafeBo00","Boye","Mafe",2022.00,"LB","DE","Minnesota",2,8,40
+12903,"DaviTy03","Tyrion","Davis-Price",2022.00,"RB","RB","LSU",3,29,93
+12904,"BurfSp00","Spencer","Burford",2022.00,"OL","OL","Texas-San Antonio",4,29,134
+12905,"PurdBr00","Brock","Purdy",2022.00,"QB","QB","Iowa St.",7,41,262
+12906,"WomaSa00","Samuel","Womack",2022.00,"CB","CB","Toledo",5,29,172
+12907,"ZakeNi00","Nick","Zakelj",2022.00,"OL","OL","Fordham",6,8,187
+12908,"GrayDa02","Danny","Gray",2022.00,"WR","WR","SMU",3,41,105
+12909,"JackDr01","Drake","Jackson",2022.00,"DL","OLB","USC",2,29,61
+12910,"CastTa00","Tariq","Castro-Fields",2022.00,"CB","CB","Penn St.",6,42,221
+12911,"DaviKa01","Kalia","Davis",2022.00,"DT","DT","Central Florida",6,41,220
+12912,"WillKy02","Kyren","Williams",2022.00,"RB","RB","Notre Dame",5,21,164
+12913,"BrusLo00","Logan","Bruss",2022.00,"G","OL","Wisconsin",3,40,104
+12914,"YeasRu00","Russ","Yeast",2022.00,"S","DB","Kansas St.",7,32,253
+12915,"LakeQu00","Quentin","Lake",2022.00,"S","DB","UCLA",6,32,211
+12916,"KendDe00","Derion","Kendrick",2022.00,"CB","DB","Georgia",6,33,212
+12917,"HardDa01","Daniel","Hardy",2022.00,"LB","LB","Montana St.",7,14,235
+12918,"ArcuAJ00","AJ","Arcuri",2022.00,"T","OT","Michigan St.",7,40,261
+12919,"DuraDe01","Cobie","Durant",2022.00,"DB","DB","South Carolina St.",4,37,142
+12920,"CamaJa00","Jake","Camarda",2022.00,"P","P","Georgia",4,28,133
+12921,"WhitRa01","Rachaad","White",2022.00,"RB","RB","Arizona St.",3,27,91
+12922,"McCoZy02","Zyon","McCollum",2022.00,"CB","DB","Sam Houston St.",5,14,157
+12923,"AnthAn00","Andre","Anthony",2022.00,"LB","DE","LSU",7,27,248
+12924,"KiefKo00","Ko","Kieft",2022.00,"TE","TE","Minnesota",6,39,218
+12925,"OttoCa00","Cade","Otton",2022.00,"TE","TE","Washington",4,1,106
+12926,"HallLo00","Logan","Hall",2022.00,"DE","DE","Houston",2,1,33
+12927,"GoedLu00","Luke","Goedeke",2022.00,"T","OL","Central Michigan",2,25,57
+12928,"OkonCh00","Chigoziem","Okonkwo",2022.00,"TE","TE","Maryland",4,38,143
+12929,"PetiNi00","Nicholas","Petit-Frere",2022.00,"T","T","Ohio St.",3,5,69
+12930,"McCrRo01","Roger","McCreary",2022.00,"CB","CB","Auburn",2,3,35
+12931,"BurkTr00","Treylon","Burks",2022.00,"WR","WR","Arkansas",1,18,18
+12932,"PhilKy01","Kyle","Philips",2022.00,"WR","WR","UCLA",5,20,163
+12933,"WillMa12","Malik","Willis",2022.00,"QB","QB","Liberty",3,22,86
+12934,"JackTh00","Theo","Jackson",2022.00,"S","DB","Tennessee",6,25,204
+12935,"CampCh02","Chance","Campbell",2022.00,"LB","LB","Mississippi",6,40,219
+12936,"HaskHa00","Hassan","Haskins",2022.00,"RB","RB","Michigan",4,26,131
+12937,"DotsJa00","Jahan","Dotson",2022.00,"WR","WR","Penn St.",1,16,16
+12938,"RobiBr01","Brian","Robinson",2022.00,"RB","RB","Alabama",3,34,98
+12939,"HolmCh00","Christian","Holmes",2022.00,"CB","CB","Oklahoma St.",7,19,240
+12940,"ButlPe00","Percy","Butler",2022.00,"S","SAF","Louisiana",4,8,113
+12941,"HoweSa00","Sam","Howell",2022.00,"QB","QB","North Carolina",5,1,144
+12942,"TurnCo00","Cole","Turner",2022.00,"TE","TE","Nevada",5,6,149
+12943,"MathPh00","Phidarian","Mathis",2022.00,"DT","DT","Alabama",2,15,47
+12944,"PaulCh00","Chris","Paul",2022.00,"G","OL","Tulsa",7,9,230
+12946,"WellDa00","David","Wells",2021.00,"TE",,,,,
+12947,"HancBl00","Blake","Hance",2021.00,"G",,,,,
+12948,"JackAl01","Alaric","Jackson",2021.00,"T",,,,,
+12949,"McCoRy00","Ryan","McCollum",2021.00,"C",,,,,
+12951,"LeglJo00","John","Leglue",2021.00,"T",,,,,
+12952,"MabrTy00","Tyler","Mabry",2021.00,"TE",,,,,
+12954,"ThroCa01","Calvin","Throckmorton",2021.00,"G",,,,,
+12955,"JoneRo02","Robert","Jones",2021.00,"G",,,,,
+12956,"BoweNi00","Nick","Bowers",2021.00,"TE",,,,,
+12957,"EiflMi00","Milo","Eifler",2021.00,"LB",,,,,
+12959,"KohoKa00","Kader","Kohou",2022.00,"CB",,,,,
+12960,"SanbJa00","Jack","Sanborn",2022.00,"LB",,,,,
+12961,"McClNi00","Nick","McCloud",2021.00,"CB",,,,,
+12962,"JoneJa12","Jaylon","Jones",2022.00,"DB",,,,,
+12963,"MastLu00","Luke","Masterson",2022.00,"LB",,,,,
+12964,"WebbSa00","Sam","Webb",2022.00,"CB",,,,,
+12965,"AverTr01","Tre","Avery",2022.00,"CB",,,,,
+12966,"BlanRe00","Reed","Blankenship",2022.00,"S",,,,,
+12967,"AlfoDe00","Dee","Alford",2022.00,"CB",,,,,
+12968,"BlacJo00","Josh","Blackwell",2022.00,"CB",,,,,
+12969,"GibbJa00","Jack","Gibbens",2022.00,"LB",,,,,
+12970,"FoxxTo00","Tomon","Fox",2022.00,"LB",,,,,
+12971,"HansJa01","Jake","Hansen",2022.00,"LB",,,,,
+12972,"PolaIs00","Isaiah","Pola-Mao",2022.00,"S",,,,,
+12973,"HornTi00","Timmy","Horne",2022.00,"DT",,,,,
+12974,"BellDA03","D'Anthony","Bell",2022.00,"S",,,,,
+12975,"HiniKu00","Kurt","Hinish",2022.00,"DT",,,,,
+12976,"SchoBr00","Brenden","Schooler",2022.00,"S",,,,,
+12977,"AdamTo03","Tony","Adams",2022.00,"S",,,,,
+12978,"FlowDa00","Dallis","Flowers",2022.00,"CB",,,,,
+12979,"GilbZy00","Zyon","Gilbert",2022.00,"CB",,,,,
+12980,"McKiVe00","Verone","McKinley",2022.00,"S",,,,,
+12981,"BlouJo00","Joey","Blount",2022.00,"S",,,,,
+12982,"DaltJa00","Jalen","Dalton",2022.00,"DT",,,,,
+12983,"McCaMa03","Marquan","McCall",2022.00,"DT",,,,,
+12984,"HendPe01","Peyton","Hendershot",2022.00,"TE",,,,,
+12985,"McMiJa00","Ja'Quan","McMillian",2022.00,"CB",,,,,
+12986,"CochJa00","Jack","Cochrane",2022.00,"LB",,,,,
+12987,"HairTr00","Troy","Hairston",2022.00,"FB",,,,,
+12988,"AndeRy01","Ryder","Anderson",2022.00,"DE",,,,,
+12989,"DomaJo00","JoJo","Domann",2022.00,"LB",,,,,
+12990,"FatuOl00","Olakunle","Fatukasi",2022.00,"LB",,,,,
+12991,"ThomKe04","Keir","Thomas",2022.00,"LB",,,,,
+12992,"VirgJa00","Jalen","Virgil",2022.00,"WR",,,,,
+12993,"WarrJa01","Jaylen","Warren",2022.00,"RB",,,,,
+12994,"ButlDa00","Darien","Butler",2022.00,"LB",,,,,
+12995,"FrabMi00","Mitchell","Fraboni",2022.00,"LS",,,,,
+12996,"MitcDa00","DaMarcus","Mitchell",2022.00,"DL",,,,,
+12997,"OkuaSa00","Sam","Okuayinonu",2022.00,"DT",,,,,
+12998,"RussJJ00","J.J.","Russell",2022.00,"LB",,,,,
+12999,"ThomAJ00","A.J.","Thomas",2022.00,"S",,,,,
+13000,"VilaLu00","Luiji","Vilain",2022.00,"LB",,,,,
+13001,"WeatSt01","Sterling","Weatherford",2022.00,"DB",,,,,
+13002,"BrewCJ00","C.J.","Brewer",2022.00,"DT",,,,,
+13003,"DaviMa02","Malik","Davis",2022.00,"RB",,,,,
+13004,"GeorAl00","Allan","George",2022.00,"CB",,,,,
+13005,"IngrJa00","Ja'Marcus","Ingram",2022.00,"CB",,,,,
+13006,"JonaKi00","Kingsley","Jonathan",2022.00,"DE",,,,,
+13007,"JoneMa07","Manny","Jones",2022.00,"DE",,,,,
+13008,"KwenWi00","William","Kwenkeu",2022.00,"LB",,,,,
+13009,"LaynRa00","Raheem","Layne",2022.00,"S",,,,,
+13010,"MasoJo00","Jordan","Mason",2022.00,"RB",,,,,
+13011,"McCuLa01","Lance","McCutcheon",2022.00,"WR",,,,,
+13012,"MorrQu00","Quintin","Morris",2022.00,"TE",,,,,
+13013,"OnujJo00","Josh","Onujiogu",2022.00,"LB",,,,,
+13014,"StonRy00","Ryan","Stonehouse",2022.00,"P",,,,,
+13015,"ThomJo07","Josh","Thompson",2022.00,"S",,,,,
+13016,"AdomCa00","Cal","Adomitis",2022.00,"LS",,,,,
+13017,"BellMa01","Markquese","Bell",2022.00,"S",,,,,
+13018,"BerrSt00","Stanley","Berryhill",2022.00,"WR",,,,,
+13019,"BlacRa00","Raheem","Blackshear",2022.00,"RB",,,,,
+13020,"BrowMi02","Mike","Brown",2022.00,"S",,,,,
+13021,"FranJa03","Jacobi","Francis",2022.00,"CB",,,,,
+13022,"GarcEl00","Elijah","Garcia",2022.00,"DT",,,,,
+13023,"HerrMa02","Malik","Herring",2022.00,"DE",,,,,
+13024,"HintCh01","Christopher","Hinton",2022.00,"DT",,,,,
+13026,"AhmeRa00","Ramiz","Ahmed",2022.00,"K",,,,,
+13027,"BadaDa00","David","Bada",2022.00,"DT",,,,,
+13028,"NichRa00","Rayshad","Nichols",2022.00,"DT",,,,,
+13029,"BakeDa02","Darrell","Baker",2022.00,"CB",,,,,
+13030,"JoneTi00","Tim","Jones",2022.00,"WR",,,,,
+13031,"HummJa00","Jake","Hummel",2022.00,"LB",,,,,
+13032,"EmilPr00","Prince","Emili",2022.00,"DT",,,,,
+13033,"MosbAr00","Arron","Mosby",2022.00,"DL",,,,,
+13034,"CartTJ00","T.J.","Carter",2022.00,"DB",,,,,
+13035,"CocoJa00","Jack","Coco",2022.00,"LS",,,,,
+13036,"CoveBr00","Britain","Covey",2022.00,"WR",,,,,
+13037,"KongJo00","Jonathan","Kongbo",2022.00,"DE",,,,,
+13038,"AberMi00","Micah","Abernathy",2022.00,"S",,,,,
+13039,"DixoDe01","De'Shaan","Dixon",2022.00,"DE",,,,,
+13040,"JeteDo00","Donovan","Jeter",2022.00,"DT",,,,,
+13041,"PerkBr02","Bryce","Perkins",2022.00,"QB",,,,,
+13042,"McCuLi00","Liam","McCullough",2022.00,"LS",,,,,
+13043,"OlubSe00","Segun","Olubi",2022.00,"LB",,,,,
+13044,"LeveNi00","Nick","Leverett",2021.00,"G",,,,,
+13045,"GateDe00","DeMarquis","Gates",2022.00,"LB",,,,,
+13046,"HuntCa02","Caleb","Huntley",2022.00,"RB",,,,,
+13047,"JobeJo00","Josh","Jobe",2022.00,"CB",,,,,
+13048,"MereJo00","Jordan","Meredith",2022.00,"G",,,,,
+13049,"KinsMa00","Mason","Kinsey",2021.00,"WR",,,,,
+13050,"KnigZo00","Zonovan","Knight",2022.00,"RB",,,,,
+13051,"LandNa01","Nathan","Landman",2022.00,"LB",,,,,
+13052,"DaviDo03","Domenique","Davis",2022.00,"DT",,,,,
+13053,"WebbRa02","Raleigh","Webb",2022.00,"WR",,,,,
+13054,"TurpKa00","KaVontae","Turpin",2022.00,"WR",,,,,
+13055,"TurnDJ00","DJ","Turner",2022.00,"WR",,,,,
+13056,"StilBe00","Ben","Stille",2022.00,"DL",,,,,
+13057,"VictBi01","Binjimen","Victor",2022.00,"WR",,,,,
+13058,"PerrRo01","Roderick","Perry",2022.00,"DL",,,,,
+13059,"ThomBr03","Bryce","Thompson",2021.00,"CB",,,,,
+13060,"PinkJa02","Jared","Pinkney",2021.00,"TE",,,,,
+13061,"RogeAr00","Armani","Rogers",2022.00,"TE",,,,,
+13062,"RhynFo00","Forrest","Rhyne",2022.00,"LB",,,,,
+13063,"RossJo01","Josh","Ross",2022.00,"LB",,,,,
+13064,"TurnNo00","Nolan","Turner",2022.00,"S",,,,,
+13065,"SmarSt00","Stone","Smartt",2022.00,"TE",,,,,
+13066,"WootCh00","Chandler","Wooten",2022.00,"LB",,,,,
+13067,"DickCa00","Cameron","Dicker",2022.00,"K",,,,,
+13068,"ShudCa00","Caleb","Shudak",2022.00,"K",,,,,
+13069,"BertTa01","Taylor","Bertolet",2022.00,"K",,,,,
+13070,"ScibNi00","Nick","Sciba",2022.00,"K",,,,,
+13071,"ShahRa00","Rashid","Shaheed",2022.00,"WR",,,,,
+13072,"ThomDe07","Deven","Thompkins",2022.00,"WR",,,,,
+13073,"JohnBr23","Brandon","Johnson",2022.00,"WR",,,,,
+13074,"ChesJu00","Julius","Chestnut",2022.00,"RB",,,,,
+13075,"AlexMa02","Maurice","Alexander",2022.00,"WR",,,,,
+13076,"KaliNi00","Nikola","Kalinic",2022.00,"TE",,,,,
+13077,"BrowAn06","Anthony","Brown",2022.00,"QB",,,,,
+13078,"WrigRy00","Ryan","Wright",2022.00,"P",,,,,
+13079,"ChriDr00","Drue","Chrisman",2022.00,"P",,,,,
+13080,"AlixJo00","Josh","Ali",2022.00,"WR",,,,,
+13081,"TramAu00","Austin","Trammell",2021.00,"WR",,,,,
+13082,"BrowSp01","Spencer","Brown",2021.00,"RB",,,,,
+13083,"TongJa00","Jake","Tonges",2022.00,"TE",,,,,
+13084,"JohnCa03","Cade","Johnson",2022.00,"WR",,,,,
+13085,"RiveRo01","Ronnie","Rivers",2022.00,"RB",,,,,
+13086,"BaccAn00","Andre","Baccellia",2022.00,"WR",,,,,
+13087,"HousDe01","Dennis","Houston",2022.00,"WR",,,,,
+13088,"ConnTa00","Tanner","Conner",2022.00,"TE",,,,,
+13089,"SandBr00","Braylon","Sanders",2022.00,"WR",,,,,
+13090,"BaldDa01","Daylen","Baldwin",2022.00,"WR",,,,,
+13091,"OjulBJ00","BJ","Ojulari",2023.00,"LB","DE","LSU",2,10,41
+13092,"TuneCl00","Clayton","Tune",2023.00,"QB","QB","Houston",5,4,139
+13093,"JohnPa03","Paris","Johnson Jr.",2023.00,"OL","OL","Ohio St.",1,6,6
+13094,"StilDa01","Dante","Stills",2023.00,"DT","DT","West Virginia",6,36,213
+13095,"PappOw00","Owen","Pappoe",2023.00,"LB","LB","Auburn",5,33,168
+13096,"WillGa00","Garrett","Williams",2023.00,"CB","DB","Syracuse",3,9,72
+13097,"WilsMi02","Michael","Wilson",2023.00,"WR","WR","Stanford",3,31,94
+13098,"ClarKe02","Kei'Trel","Clark",2023.00,"CB","DB","Louisville",6,3,180
+13099,"GainJo00","Jon","Gaines",2023.00,"OL","OL","UCLA",4,20,122
+13100,"HarrZa00","Zach","Harrison",2023.00,"DE","DE","Ohio St.",3,12,75
+13101,"PhilCl00","Clark","Phillips III",2023.00,"CB","CB","Utah",4,11,113
+13102,"HellDe00","DeMarcco","Hellams",2023.00,"S","DB","Alabama",7,7,224
+13103,"BergMa00","Matthew","Bergeron",2023.00,"OL","OL","Syracuse",2,7,38
+13104,"RobiBi01","Bijan","Robinson",2023.00,"RB","RB","Texas",1,8,8
+13105,"GwynJo00","Jovaughn","Gwyn",2023.00,"OL","OL","South Carolina",7,8,225
+13106,"SimpTr00","Trenton","Simpson",2023.00,"LB","LB","Clemson",3,23,86
+13107,"VorhAn00","Andrew","Vorhees",2023.00,"OL","OL","USC",7,12,229
+13108,"BluxKy00","Kyu Blu","Kelly",2023.00,"CB","CB","Stanford",5,22,157
+13109,"AumaMa00","Malaesala","Aumavae-Laulu",2023.00,"OL","OL","Oregon",6,22,199
+13110,"RobiTa00","Tavius","Robinson",2023.00,"LB","DE","Mississippi",4,22,124
+13111,"FlowZa00","Zay","Flowers",2023.00,"WR","WR","Boston Col.",1,22,22
+13112,"BroeNi00","Nick","Broeker",2023.00,"G","OL","Mississippi",7,13,230
+13113,"WillDo04","Dorian","Williams",2023.00,"LB","LB","Tulane",3,28,91
+13114,"ShorJu00","Justin","Shorter",2023.00,"WR","WR","Florida",5,15,150
+13115,"TorrOC00","O'Cyrus","Torrence",2023.00,"G","OL","Florida",2,28,59
+13116,"KincDa00","Dalton","Kincaid",2023.00,"TE","TE","Utah",1,25,25
+13117,"AustAl00","Alex","Austin",2023.00,"CB","DB","Oregon St.",7,35,252
+13118,"ZavaCh00","Chandler","Zavala",2023.00,"G","G","North Carolina St.",4,12,114
+13119,"RobiJa03","Jammie","Robinson",2023.00,"S","DB","Florida St.",5,10,145
+13120,"YounBr01","Bryce","Young",2023.00,"QB","QB","Alabama",1,1,1
+13121,"MingJo00","Jonathan","Mingo",2023.00,"WR","WR","Mississippi",2,8,39
+13122,"JohnDJ00","DJ","Johnson",2023.00,"LB","OLB","Oregon",3,17,80
+13123,"SeweNo00","Noah","Sewell",2023.00,"LB","LB","Oregon",5,13,148
+13124,"WillKe07","Kendall","Williamson",2023.00,"S","SAF","Stanford",7,41,258
+13125,"WrigDa00","Darnell","Wright",2023.00,"OL","OL","Tennessee",1,10,10
+13126,"ScotTy00","Tyler","Scott",2023.00,"WR","WR","Cincinnati",4,31,133
+13127,"BellTr01","Travis","Bell",2023.00,"DT","DL","Kennesaw St.",7,1,218
+13128,"SmitTe05","Terell","Smith",2023.00,"DB","DB","Minnesota",5,30,165
+13129,"JohnRo07","Roschon","Johnson",2023.00,"RB","RB","Texas",4,13,115
+13130,"DextGe00","Gervon","Dexter Sr.",2023.00,"DL","DL","Florida",2,22,53
+13131,"StevTy01","Tyrique","Stevenson",2023.00,"CB","CB","Miami (FL)",2,25,56
+13132,"PickZa00","Zacch","Pickens",2023.00,"DL","DL","South Carolina",3,1,64
+13133,"IveyDJ00","DJ","Ivey",2023.00,"CB","CB","Miami (FL)",7,29,246
+13134,"IosiAn00","Andrei","Iosivas",2023.00,"WR","WR","Princeton",6,29,206
+13135,"RobbBr00","Brad","Robbins",2023.00,"P","P","Michigan",6,40,217
+13136,"BrowCh10","Chase","Brown",2023.00,"RB","RB","Illinois",5,28,163
+13137,"JoneCh11","Charlie","Jones",2023.00,"WR","WR","Purdue",4,29,131
+13138,"BattJo00","Jordan","Battle",2023.00,"S","DB","Alabama",3,32,95
+13139,"TurnDJ01","DJ","Turner II",2023.00,"CB","DB","Michigan",2,29,60
+13140,"MurpMy00","Myles","Murphy",2023.00,"DE","DE","Clemson",1,28,28
+13141,"MitcCa01","Cameron","Mitchell",2023.00,"CB","DB","Northwestern",5,7,142
+13142,"ThomDo02","Dorian","Thompson-Robinson",2023.00,"QB","QB","UCLA",5,5,140
+13143,"McGuIs00","Isaiah","McGuire",2023.00,"DE","DL","Missouri",4,24,126
+13144,"WyplLu00","Luke","Wypler",2023.00,"C","OL","Ohio St.",6,13,190
+13145,"IkaxSi00","Siaki","Ika",2023.00,"DT","DL","Baylor",3,35,98
+13146,"TillCe01","Cedric","Tillman",2023.00,"WR","WR","Tennessee",3,11,74
+13147,"JoneDa07","Dawand","Jones",2023.00,"T","OL","Ohio St.",4,9,111
+13148,"FehoVi00","Viliami","Fehoko",2023.00,"DE","DL","San Jose St.",4,27,129
+13149,"OverDe00","DeMarvion","Overshown",2023.00,"LB","LB","Texas",3,27,90
+13150,"RichAs00","Asim","Richards",2023.00,"OL","OL","North Carolina",5,34,169
+13151,"ScotEr00","Eric","Scott",2023.00,"CB","DB","Southern Miss",6,1,178
+13152,"SchoLu00","Luke","Schoonmaker",2023.00,"TE","TE","Michigan",2,27,58
+13153,"SmitMa06","Mazi","Smith",2023.00,"DT","DL","Michigan",1,26,26
+13154,"VaugDe00","Deuce","Vaughn",2023.00,"RB","RB","Kansas St.",6,35,212
+13155,"BrooJa03","Jalen","Brooks",2023.00,"WR","WR","South Carolina",7,27,244
+13156,"ForsAl00","Alex","Forsyth",2023.00,"C","OL","Oregon",7,40,257
+13157,"MimsMa00","Marvin","Mims Jr.",2023.00,"WR","WR","Oklahoma",2,32,63
+13158,"SkinJL00","JL","Skinner",2023.00,"S","SAF","Boise St.",6,6,183
+13159,"MossRi00","Riley","Moss",2023.00,"CB","DB","Iowa",3,20,83
+13160,"SandDr00","Drew","Sanders",2023.00,"LB","LB","Arkansas",3,4,67
+13161,"MartBr00","Brodric","Martin",2023.00,"DL","DT","Western Kentucky",3,33,96
+13162,"LaPoSa01","Sam","LaPorta",2023.00,"TE","TE","Iowa",2,3,34
+13163,"HookHe00","Hendon","Hooker",2023.00,"QB","QB","Tennessee",3,5,68
+13164,"GreeAn00","Antoine","Green",2023.00,"WR","WR","North Carolina",7,2,219
+13165,"CampJa04","Jack","Campbell",2023.00,"LB","LB","Iowa",1,18,18
+13166,"BranBr00","Brian","Branch",2023.00,"DB","DB","Alabama",2,14,45
+13167,"GibbJa01","Jahmyr","Gibbs",2023.00,"RB","RB","Alabama",1,12,12
+13168,"SorsCo00","Colby","Sorsdal",2023.00,"OL","OL","William & Mary",5,17,152
+13169,"ReedJa03","Jayden","Reed",2023.00,"WR","WR","Michigan St.",2,19,50
+13170,"KrafTu00","Tucker","Kraft",2023.00,"TE","TE","South Dakota St.",3,15,78
+13171,"WoodCo01","Colby","Wooden",2023.00,"DE","DE","Auburn",4,14,116
+13172,"BrooKa00","Karl","Brooks",2023.00,"DT","DT","Bowling Green",6,2,179
+13173,"JohnAn08","Anthony","Johnson Jr.",2023.00,"S","DB","Iowa St.",7,25,242
+13174,"WickDo00","Dontayvion","Wicks",2023.00,"WR","WR","Virginia",5,24,159
+13175,"VanNLu00","Lukas","Van Ness",2023.00,"DL","DL","Iowa",1,13,13
+13176,"ClifSe00","Sean","Clifford",2023.00,"QB","QB","Penn St.",5,14,149
+13177,"CarlAn00","Anders","Carlson",2023.00,"K","K","Auburn",6,30,207
+13178,"MusgLu00","Luke","Musgrave",2023.00,"TE","TE","Oregon St.",2,11,42
+13179,"ValeCa00","Carrington","Valentine",2023.00,"CB","DB","Kentucky",7,15,232
+13180,"DuboGr00","Grant","Dubose",2023.00,"WR","WR","Charlotte",7,39,256
+13181,"NichLe00","Lew","Nichols",2023.00,"RB","RB","Central Michigan",7,18,235
+13182,"HillBr03","Brandon","Hill",2023.00,"S","DB","Pittsburgh",7,31,248
+13183,"HutcXa00","Xavier","Hutchinson",2023.00,"WR","WR","Iowa St.",6,28,205
+13184,"ScruJu00","Juice","Scruggs",2023.00,"OL","OL","Penn St.",2,31,62
+13185,"TooTHe00","Henry","To'oTo'o",2023.00,"LB","LB","Alabama",5,32,167
+13186,"PattJa03","Jarrett","Patterson",2023.00,"OL","OL","Notre Dame",6,24,201
+13187,"DellNa00","Tank","Dell",2023.00,"WR","WR","Houston",3,6,69
+13188,"HortDy00","Dylan","Horton",2023.00,"DE","DL","TCU",4,7,109
+13189,"AndeWi01","Will","Anderson Jr.",2023.00,"DE","LB","Alabama",1,3,3
+13190,"StroCJ00","C.J.","Stroud",2023.00,"QB","QB","Ohio St.",1,2,2
+13191,"RushDa00","Darius","Rush",2023.00,"CB","DB","South Carolina",5,3,138
+13192,"LeoxTi00","Titus","Leo",2023.00,"DE","LB","Wagner",6,34,211
+13193,"AdebAd00","Adetomiwa","Adebawore",2023.00,"DT","DL","Northwestern",4,8,110
+13194,"RichAn03","Anthony","Richardson",2023.00,"QB","QB","Florida",1,4,4
+13195,"FreeBl00","Blake","Freeland",2023.00,"T","OL","BYU",4,4,106
+13196,"DownJo00","Josh","Downs",2023.00,"WR","WR","North Carolina",3,,79
+13197,"WittJa01","Jake","Witt",2023.00,"T","OL","Northern Michigan",7,19,236
+13198,"JoneJa13","Jaylon","Jones",2023.00,"CB","DB","Texas A&M",7,4,221
+13199,"ScotDa03","Daniel","Scott",2023.00,"S","SAF","California",5,23,158
+13200,"MallWi00","Will","Mallory",2023.00,"TE","TE","Miami (FL)",5,27,162
+13201,"HullEv00","Evan","Hull",2023.00,"RB","RB","Northwestern",5,41,176
+13202,"BrenJu00","Julius","Brents",2023.00,"CB","DB","Kansas St.",2,13,44
+13203,"LacyTy00","Tyler","Lacy",2023.00,"DT","DE","Oklahoma St.",4,28,130
+13204,"AbduYa00","Yasir","Abdullah",2023.00,"LB","LB","Louisville",5,1,136
+13205,"HodgCo00","Cooper","Hodges",2023.00,"T","OL","Appalachian St.",7,9,226
+13206,"VohaRa00","Raymond","Vohasek",2023.00,"DT","DT","North Carolina",7,10,227
+13207,"BrasCh00","Christian","Braswell",2023.00,"CB","DB","Rutgers",6,25,202
+13208,"StraBr00","Brenton","Strange",2023.00,"TE","TE","Penn St.",2,30,61
+13209,"HarrAn00","Anton","Harrison",2023.00,"T","OL","Oklahoma",1,27,27
+13210,"MillVe00","Ventrell","Miller",2023.00,"LB","LB","Florida",4,19,121
+13211,"JohnAn07","Antonio","Johnson",2023.00,"S","DB","Texas A&M",5,25,160
+13212,"HallEr00","Erick","Hallett",2023.00,"CB","DB","Pittsburgh",6,31,208
+13213,"BigsTa00","Tank","Bigsby",2023.00,"RB","RB","Auburn",3,25,88
+13214,"PariDe00","Derek","Parish",2023.00,"TE","DL","Houston",7,23,240
+13215,"WashPa01","Parker","Washington",2023.00,"WR","WR","Penn St.",6,8,185
+13216,"ConnCh01","Chamarri","Conner",2023.00,"DB","DB","Virginia Tech",4,17,119
+13217,"JoneNi00","Nic","Jones",2023.00,"CB","CB","Ball St.",7,33,250
+13218,"MorrWa01","Wanya","Morris",2023.00,"OL","OL","Oklahoma",3,29,92
+13219,"CobuKe00","Keondre","Coburn",2023.00,"DT","DT","Texas",6,17,194
+13220,"AnudFe00","Felix","Anudike-Uzomah",2023.00,"DE","DE","Kansas St.",1,31,31
+13221,"RiceRa01","Rashee","Rice",2023.00,"WR","WR","SMU",2,24,55
+13222,"ThomBJ00","BJ","Thompson",2023.00,"DE","DE","S.F. Austin",5,31,166
+13223,"HiggEl00","Elijah","Higgins",2023.00,"TE","WR","Stanford",6,20,197
+13224,"SmitCa02","Cam","Smith",2023.00,"CB","DB","South Carolina",2,20,51
+13225,"AchaDe00","Devon","Achane",2023.00,"RB","RB","Texas A&M",3,21,84
+13226,"HayeRy00","Ryan","Hayes",2023.00,"T","OL","Michigan",7,21,238
+13227,"AddiJo00","Jordan","Addison",2023.00,"WR","WR","USC",1,23,23
+13228,"BlacMe00","Mekhi","Blackmon",2023.00,"CB","CB","USC",3,39,102
+13229,"HallJa00","Jaren","Hall",2023.00,"QB","QB","BYU",5,29,164
+13230,"McBrDe00","DeWayne","McBride",2023.00,"RB","RB","Ala-Birmingham",7,5,222
+13231,"RoyxJa00","Jaquelin","Roy",2023.00,"DT","DT","LSU",5,6,141
+13232,"WardJa00","Jay","Ward",2023.00,"S","SAF","LSU",4,32,134
+13233,"BariBr00","Bryce","Baringer",2023.00,"P","P","Michigan St.",6,15,192
+13234,"SpeeAm00","Ameer","Speed",2023.00,"CB","CB","Michigan St.",6,37,214
+13235,"MafiAt00","Atonio","Mafi",2023.00,"G","OL","UCLA",5,9,144
+13236,"BoldIs00","Isaiah","Bolden",2023.00,"CB","CB","Jackson St.",7,28,245
+13237,"SowxSi00","Sidy","Sow",2023.00,"G","OL","East. Michigan",4,15,117
+13238,"RylaCh00","Chad","Ryland",2023.00,"K","K","Maryland",4,10,112
+13239,"AndrJa00","Jake","Andrews",2023.00,"C","OL","Troy",4,5,107
+13240,"DougDe00","Demario","Douglas",2023.00,"WR","WR","Liberty",6,33,210
+13241,"MapuMa00","Marte","Mapu",2023.00,"LB","DB","Sacramento St.",3,13,76
+13242,"GonzCh00","Christian","Gonzalez",2023.00,"CB","DB","Oregon",1,17,17
+13243,"WhitKe03","Keion","White",2023.00,"DE","DL","Georgia Tech",2,15,46
+13244,"BoutKa00","Kayshon","Boutte",2023.00,"WR","WR","LSU",6,10,187
+13245,"MillKe01","Kendre","Miller",2023.00,"RB","RB","TCU",3,8,71
+13246,"FoskIs00","Isaiah","Foskey",2023.00,"DE","DL","Notre Dame",2,9,40
+13247,"BresBr00","Bryan","Bresee",2023.00,"DT","DT","Clemson",1,29,29
+13248,"HowdJo00","Jordan","Howden",2023.00,"DB","DB","Minnesota",5,11,146
+13249,"PerrAT00","A.T.","Perry",2023.00,"WR","WR","Wake Forest",6,18,195
+13250,"SaldNi00","Nick","Saldiveri",2023.00,"OL","OL","Old Dominion",4,1,103
+13251,"HaenJa00","Jake","Haener",2023.00,"QB","QB","Fresno St.",4,25,127
+13252,"HawkTr00","Tre","Hawkins",2023.00,"CB","CB","Old Dominion",6,32,209
+13253,"BankDe00","Deonte","Banks",2023.00,"CB","DB","Maryland",1,24,24
+13254,"RileJo00","Jordon","Riley",2023.00,"DL","DL","Oregon",7,26,243
+13255,"GrayEr01","Eric","Gray",2023.00,"RB","RB","Oklahoma",5,37,172
+13256,"OwenGe00","Gervarrius","Owens",2023.00,"S","DB","Houston",7,37,254
+13257,"MichJo00","John Michael","Schmitz",2023.00,"C","OL","Minnesota",2,26,57
+13258,"HyatJa00","Jalin","Hyatt",2023.00,"WR","WR","Tennessee",3,10,73
+13259,"McDoWi00","Will","McDonald IV",2023.00,"DE","DE","Iowa St.",1,15,15
+13260,"BarnZa00","Zaire","Barnes",2023.00,"LB","LB","Western Michigan",6,7,184
+13261,"BernJa01","Jarrick","Bernard-Converse",2023.00,"CB","CB","LSU",6,27,204
+13262,"TippJo00","Joe","Tippmann",2023.00,"C","OL","Wisconsin",2,12,43
+13263,"KuntZa00","Zack","Kuntz",2023.00,"TE","TE","Old Dominion",7,3,220
+13264,"AbanIs00","Israel","Abanikanda",2023.00,"RB","RB","Pittsburgh",5,8,143
+13265,"WarrCa00","Carter","Warren",2023.00,"T","OL","Pittsburgh",4,18,120
+13266,"WilsTy01","Tyree","Wilson",2023.00,"DE","OLB","Texas Tech",1,7,7
+13267,"SmitCh04","Christopher","Smith II",2023.00,"S","DB","Georgia",5,35,170
+13268,"TuckTr00","Tre","Tucker",2023.00,"WR","WR","Cincinnati",3,37,100
+13269,"BurnAm00","Amari","Burney",2023.00,"LB","LB","Florida",6,26,203
+13270,"MayeMi00","Michael","Mayer",2023.00,"TE","TE","Notre Dame",2,4,35
+13271,"YounBy00","Byron","Young",2023.00,"DT","DL","Alabama",3,7,70
+13272,"OConAi00","Aidan","O'Connell",2023.00,"QB","QB","Purdue",4,33,135
+13273,"JadeNe00","Nesta Jade","Silvera",2023.00,"DT","DT","Arizona St.",7,14,231
+13274,"BennJa00","Jakorian","Bennett",2023.00,"CB","DB","Maryland",4,2,104
+13275,"OjomMo00","Moro","Ojomo",2023.00,"DT","DE","Texas",7,32,249
+13276,"CartJa05","Jalen","Carter",2023.00,"DT","DL","Georgia",1,9,9
+13277,"McKeTa01","Tanner","McKee",2023.00,"QB","QB","Stanford",6,11,188
+13278,"RingKe00","Kelee","Ringo",2023.00,"CB","DB","Georgia",4,3,105
+13279,"SteeTy00","Tyler","Steen",2023.00,"OL","OL","Alabama",3,2,65
+13280,"BrowSy00","Sydney","Brown",2023.00,"S","DB","Illinois",3,3,66
+13281,"SmitNo02","Nolan","Smith",2023.00,"LB","OLB","Georgia",1,30,30
+13282,"PortJo02","Joey","Porter Jr.",2023.00,"CB","CB","Penn St.",2,1,32
+13283,"HerbNi00","Nick","Herbig",2023.00,"LB","OLB","Wisconsin",4,30,132
+13284,"WashDa03","Darnell","Washington",2023.00,"TE","TE","Georgia",3,30,93
+13285,"JoneBr09","Broderick","Jones",2023.00,"T","OL","Georgia",1,14,14
+13286,"AndeSp00","Spencer","Anderson",2023.00,"OL","OL","Maryland",7,34,251
+13287,"TricCo00","Cory","Trice Jr.",2023.00,"CB","CB","Purdue",7,24,241
+13288,"BentKe00","Keeanu","Benton",2023.00,"DT","NT","Wisconsin",2,18,49
+13289,"JohnQu02","Quentin","Johnston",2023.00,"WR","WR","TCU",1,21,21
+13290,"TuipTu00","Tuli","Tuipulotu",2023.00,"LB","DL","USC",2,23,54
+13291,"DaviDe02","Derius","Davis",2023.00,"WR","WR","TCU",4,23,125
+13292,"HenlDa00","Daiyan","Henley",2023.00,"LB","LB","Washington St.",3,22,85
+13293,"MatlSc00","Scott","Matlock",2023.00,"DT","DT","Boise St.",6,23,200
+13294,"McFaJo00","Jordan","McFadden",2023.00,"OL","OL","Clemson",5,21,156
+13295,"DuggMa00","Max","Duggan",2023.00,"QB","QB","TCU",7,22,239
+13296,"WithDe00","Devon","Witherspoon",2023.00,"CB","DB","Illinois",1,5,5
+13297,"SmitJa06","Jaxon","Smith-Njigba",2023.00,"WR","WR","Ohio St.",1,20,20
+13298,"OluwOl00","Olusegun","Oluwatimi",2023.00,"C","C","Michigan",5,19,154
+13299,"MorrMi00","Mike","Morris",2023.00,"DE","DE","Michigan",5,16,151
+13300,"HallDe04","Derick","Hall",2023.00,"LB","DE","Auburn",2,6,37
+13301,"YounCa00","Cameron","Young",2023.00,"DT","DT","Mississippi St.",4,21,123
+13302,"CharZa00","Zach","Charbonnet",2023.00,"RB","RB","UCLA",2,21,52
+13303,"BradAn00","Anthony","Bradford",2023.00,"G","OL","LSU",4,6,108
+13304,"McInKe00","Kenny","McIntosh",2023.00,"RB","RB","Georgia",7,20,237
+13305,"ReedJe00","Jerrick","Reed",2023.00,"S","SAF","New Mexico",6,21,198
+13306,"BellRo01","Ronnie","Bell",2023.00,"WR","WR","Michigan",7,36,253
+13307,"GrahJa02","Jalen","Graham",2023.00,"LB","SAF","Purdue",7,38,255
+13308,"LatuCa01","Cameron","Latu",2023.00,"TE","TE","Alabama",3,38,101
+13309,"MoodJa00","Jake","Moody",2023.00,"K","K","Michigan",3,36,99
+13310,"WintDe00","Dee","Winters",2023.00,"LB","LB","TCU",6,39,216
+13311,"BrowJi01","Ji'Ayir","Brown",2023.00,"S","SAF","Penn St.",3,24,87
+13312,"WillBr06","Brayden","Willis",2023.00,"TE","TE","Oklahoma",7,30,247
+13313,"LuteDa00","Darrell","Luter Jr.",2023.00,"CB","CB","South Alabama",5,20,155
+13314,"BealRo00","Robert","Beal Jr.",2023.00,"DE","OLB","Georgia",5,38,173
+13315,"MathOc00","Ochaun","Mathis",2023.00,"LB","DE","Nebraska",6,12,189
+13316,"HampNi00","Nick","Hampton",2023.00,"LB","OLB","Appalachian St.",5,26,161
+13317,"HodgTr00","Tre","Tomlinson",2023.00,"CB","CB","TCU",6,5,182
+13318,"YounBy01","Byron","Young",2023.00,"LB","LB","Tennessee",3,14,77
+13319,"EvanZa00","Zach","Evans",2023.00,"RB","RB","Mississippi",6,38,215
+13320,"TaylJa05","Jason","Taylor",2023.00,"S","SAF","Oklahoma St.",7,17,234
+13321,"McClWa00","Warren","McClendon Jr.",2023.00,"OL","OL","Georgia",5,39,174
+13322,"TurnKo00","Kobie","Turner",2023.00,"DT","DT","Wake Forest",3,26,89
+13323,"NacuPu00","Puka","Nacua",2023.00,"WR","WR","BYU",5,42,177
+13324,"BennSt00","Stetson","Bennett",2023.00,"QB","QB","Georgia",4,26,128
+13325,"JohnDe08","Desjuan","Johnson",2023.00,"DE","DT","Toledo",7,42,259
+13326,"AlleDa02","Davis","Allen",2023.00,"TE","TE","Clemson",5,40,175
+13327,"EvanEt00","Ethan","Evans",2023.00,"P","P","Wingate",7,6,223
+13328,"AvilSt00","Steve","Avila",2023.00,"C","C","TCU",2,5,36
+13329,"DennSi00","SirVocea","Dennis",2023.00,"LB","LB","Pittsburgh",5,18,153
+13330,"HayeJo01","Josh","Hayes",2023.00,"CB","CB","Kansas St.",6,4,181
+13331,"MaucCo00","Cody","Mauch",2023.00,"G","T","North Dakota St.",2,17,48
+13332,"KancCa00","Calijah","Kancey",2023.00,"DL","DL","Pittsburgh",1,19,19
+13333,"DurhPa00","Payne","Durham",2023.00,"TE","TE","Purdue",5,36,171
+13334,"RamiJo00","Jose","Ramirez",2023.00,"LB","DL","East. Michigan",6,19,196
+13335,"DiabYa00","YaYa","Diaby",2023.00,"LB","DL","Louisville",3,19,82
+13336,"PalmTr00","Trey","Palmer",2023.00,"WR","WR","Nebraska",6,14,191
+13337,"SkorPe00","Peter","Skoronski",2023.00,"OL","OL","Northwestern",1,11,11
+13338,"LeviWi00","Will","Levis",2023.00,"QB","QB","Kentucky",2,2,33
+13339,"SpeaTy00","Tyjae","Spears",2023.00,"RB","RB","Tulane",3,18,81
+13340,"DoweCo00","Colton","Dowell",2023.00,"WR","WR","UT Martin",7,11,228
+13341,"WhylJo01","Josh","Whyle",2023.00,"TE","TE","Cincinnati",5,12,147
+13342,"DuncJa00","Jaelyn","Duncan",2023.00,"T","OL","Maryland",6,9,186
+13343,"ForbEm00","Emmanuel","Forbes",2023.00,"CB","CB","Mississippi St.",1,16,16
+13344,"MartJa04","Quan","Martin",2023.00,"S","DB","Illinois",2,16,47
+13345,"JoneAn02","Andre","Jones",2023.00,"DE","DE","Louisiana",7,16,233
+13346,"DaniBr00","Braeden","Daniels",2023.00,"OL","OL","Utah",4,16,118
+13347,"HenrKJ00","K.J.","Henry",2023.00,"DE","DE","Clemson",5,2,137
+13348,"RodrCh00","Chris","Rodriguez",2023.00,"RB","RB","Kentucky",6,16,193
+13349,"StroRi01","Ricky","Stromberg",2023.00,"C","OL","Arkansas",3,34,97
+13350,"KiddLe00","Lewis","Kidd",2022.00,"OL",,,,,
+13351,"SeweNe00","Nephi","Sewell",2022.00,"LB",,,,,
+13353,"AwosKa00","Kayode","Awosika",2021.00,"G",,,,,
+13356,"WaltBr01","Brandon","Walton",2022.00,"T",,,,,
+13358,"SareFo00","Foster","Sarell",2022.00,"T",,,,,
+13362,"McLaJa00","Jaleel","McLaughlin",2023.00,"RB",,,,,
+13363,"ZentTy00","Ty","Zentner",2023.00,"P",,,,,
+13364,"HarrJa04","Jalen","Harris",2023.00,"DE",,,,,
+13365,"MoonJe00","Jeremiah","Moon",2023.00,"LB",,,,,
+13366,"LondLa00","LaCale","London",2021.00,"DT",,,,,
+13367,"JamiDS00","D'Shawn","Jamison",2023.00,"CB",,,,,
+13368,"NowaTr00","Trevor","Nowaske",2023.00,"LB",,,,,
+13369,"MustPJ00","PJ","Mustipher",2023.00,"DT",,,,,
+13370,"MurpCa00","Caleb","Murphy",2023.00,"LB",,,,,
+13371,"CorbJa01","Jashaun","Corbin",2023.00,"RB",,,,,
+13372,"CookAl00","Alex","Cook",2023.00,"S",,,,,
+13373,"DeViTo00","Tommy","DeVito",2023.00,"QB",,,,,
+13374,"ReesOt00","Otis","Reese",2023.00,"LB",,,,,
+13375,"MimsJo00","Jordan","Mims",2023.00,"RB",,,,,
+13376,"ThomNa00","NaJee","Thompson",2023.00,"CB",,,,,
+13377,"McCaTa00","Tanner","McCalister",2023.00,"S",,,,,
+13378,"HailKa00","Kahlef","Hailassie",2023.00,"CB",,,,,
+13379,"MaugKa00","Kana'I","Mauga",2023.00,"LB",,,,,
+13380,"JarrRa00","Rakim","Jarrett",2023.00,"WR",,,,,
+13381,"NewmXa00","Xavier","Newman",2022.00,"OL",,,,,
+13382,"OConPa01","Patrick","O'Connell",2023.00,"LB",,,,,
+13383,"OkadTy00","Ty","Okada",2023.00,"S",,,,,
+13384,"JackSh01","Shedrick","Jackson",2023.00,"WR",,,,,
+13385,"DenbTr00","Trevor","Denbow",2022.00,"S",,,,,
+13386,"IncoTh00","Thomas","Incoom",2023.00,"LB",,,,,
+13387,"GipsXa00","Xavier","Gipson",2023.00,"WR",,,,,
+13388,"GarrEr00","Eric","Garror",2023.00,"DB",,,,,
+13389,"ThomTr01","Trenton","Thompson",2022.00,"S",,,,,
+13390,"RayxLa02","LaBryan","Ray",2023.00,"DE",,,,,
+13391,"JohnQu01","Quindell","Johnson",2023.00,"DB",,,,,
+13392,"CartAn01","Andre","Carter II",2023.00,"LB",,,,,
+13393,"PittDe01","Derrek","Pitts",2023.00,"CB",,,,,
+13394,"WheaTy02","Tyrus","Wheat",2023.00,"DE",,,,,
+13395,"BrowJa08","Jake","Browning",2023.00,"QB",,"Washington",,,
+13396,"GreeMi01","Mike","Greene",2023.00,"DL",,,,,
+13397,"BonnEt00","Ethan","Bonner",2023.00,"CB",,,,,
+13398,"IzieCh00","Christian","Izien",2023.00,"S",,,,,
+13399,"McLeTK00","TK","McLendon",2023.00,"DE",,,,,
+13400,"BageTy00","Tyson","Bagent",2023.00,"QB",,,,,
+13401,"HeatMa00","Malik","Heath",2023.00,"WR",,,,,
+13402,"ThomSt01","Starling","Thomas",2023.00,"CB",,,,,
+13403,"AdkiNa00","Nate","Adkins",2023.00,"TE",,,,,
+13404,"WillJa14","Jaylin","Williams",2023.00,"CB",,,,,
+13405,"KendAn00","Anthony","Kendall",2023.00,"CB",,,,,
+13406,"SappBe00","Benny","Sapp III",2023.00,"S",,,,,
+13407,"CharIr00","Irvin","Charles",2023.00,"WR",,,,,
+13408,"WillRo08","Rodney","Williams",2023.00,"TE",,,,,
+13409,"PiliBr00","Brandon","Pili",2023.00,"DT",,,,,
+13410,"GrayVi00","Vincent","Gray",2023.00,"DB",,,,,
+13411,"PryoJo00","Joshua","Pryor",2023.00,"DE",,,,,
+13412,"FiskTu00","Tucker","Fisk",2023.00,"TE",,,,,
+13413,"LandIs00","Isaiah","Land",2023.00,"DE",,,,,
+13414,"TuckSe00","Sean","Tucker",2023.00,"RB",,,,,
+13415,"ThomCh02","Charlie","Thomas",2023.00,"LB",,,,,
+13416,"ShelTy01","Ty","Shelby",2023.00,"LB",,,,,
+13417,"PaceIv00","Ivan","Pace",2023.00,"LB",,,,,
+13418,"ThomDr00","Drake","Thomas",2023.00,"LB",,,,,
+13419,"AddiTu00","Tucker","Addington",2022.00,"LS",,,,,
+13420,"RussBr00","Brady","Russell",2023.00,"TE",,,,,
+13421,"LeotEk00","Eku","Leota",2023.00,"LB",,,,,
+13422,"VanSBe00","Ben","VanSumeren",2023.00,"LB",,,,,
+13423,"HickRo00","Ronnie","Hickman",2023.00,"S",,,,,
+13424,"CartSh01","Shyheim","Carter",2023.00,"DB",,,,,
+13425,"MitcKe01","Keaton","Mitchell",2023.00,"RB",,,,,
+13426,"FarmAn00","Andrew","Farmer",2023.00,"LB",,,,,
+13427,"ThomJu03","Juanyeh","Thomas",2023.00,"S",,,,,
+13428,"DurdCo00","Cory","Durden",2023.00,"DT",,,,,
+13429,"WardAl00","Alex","Ward",2023.00,"LS",,,,,
+13430,"PharJe00","Jeremiah","Pharms Jr.",2023.00,"DT",,,,,
+13431,"McCoTr00","Tristin","McCollum",2023.00,"S",,,,,
+13432,"VanVZa00","Zach","VanValkenburg",2023.00,"LB",,,,,
+13433,"MerrKa00","Kaevon","Merriweather",2023.00,"S",,,,,
+13434,"WilsDi00","Divaad","Wilson",2023.00,"CB",,,,,
+13435,"JoneCa04","Cam","Jones",2023.00,"LB",,,,,
+13436,"StolCh00","Chris","Stoll",2023.00,"LS",,,,,
+13437,"WattMa00","Markees","Watts",2023.00,"LB",,,,,
+13438,"RickEl00","Eli","Ricks",2023.00,"CB",,,,,
+13439,"GoodMa02","Mario","Goodrich",2023.00,"CB",,,,,
+13440,"LuepHu00","Hunter","Luepke",2023.00,"RB",,,,,
+13441,"JackMa04","Matthew","Jackson",2023.00,"S",,,,,
+13442,"HawkTa01","Tayler","Hawkins",2023.00,"S",,,,,
+13443,"WhitBe00","Benton","Whitley",2023.00,"LB",,,,,
+13444,"DiabMo00","Mohamoud","Diabate",2023.00,"LB",,,,,
+13445,"FinlAJ00","AJ","Finley",2023.00,"S",,,,,
+13446,"AubrBr00","Brandon","Aubrey",2023.00,"K",,,,,
+13447,"GrupBl00","Blake","Grupe",2023.00,"K",,,,,
+13448,"HavrLu00","Lucas","Havrisik",2023.00,"K",,,,,
+13449,"AlleDe02","Devon","Allen",2023.00,"WR",,,,,
+13450,"JackKe02","Kearis","Jackson",2023.00,"WR",,,,,
+13451,"IbraMo00","Mohamed","Ibrahim",2023.00,"RB",,,,,
+13452,"CoonNo00","Nolan","Cooney",2023.00,"P",,,,,
+13453,"WhelDa00","Daniel","Whelan",2023.00,"P",,,,,
+13454,"HedlLo00","Lou","Hedley",2023.00,"P",,,,,
+13455,"SimsBe00","Ben","Sims",2023.00,"TE",,,,,
+13456,"BoboJa00","Jake","Bobo",2023.00,"WR",,,,,
+13457,"JackTr02","Trishton","Jackson",2023.00,"WR",,,,,
+13458,"KrulLu00","Lucas","Krull",2022.00,"TE",,,,,
+13459,"CookEl00","Elijah","Cooks",2023.00,"WR",,,,,
+13460,"HillJu02","Julian","Hill",2023.00,"TE",,,,,
+13461,"WilsEm00","Emanuel","Wilson",2023.00,"RB",,,,,
+13462,"DemeEm00","Emari","Demercado",2023.00,"RB",,,,,
+13463,"DotsEl00","Elijah","Dotson",2023.00,"RB",,,,,
+13464,"LassKw00","Kwamie","Lassiter II",2022.00,"WR",,,,,
+13465,"GoodTy00","Tyler","Goodson",2023.00,"RB",,,,,
+13466,"RossJu00","Justyn","Ross",2023.00,"WR",,,,,
+13467,"BrowJa07","Jason","Brownlee",2023.00,"WR",,,,,
+13468,"FothCo00","Cole","Fotheringham",2023.00,"TE",,,,,
+13469,"BrooCh00","Chris","Brooks",2023.00,"RB",,,,,
+13470,"MeltMa00","Max","Melton",2024.00,"DB","DB","Rutgers",2,11,43
+13471,"JoneEl00","Elijah","Jones",2024.00,"DB","DB","Boston Col.",3,26,90
+13472,"ReimTi00","Tip","Reiman",2024.00,"TE","TE","Illinois",3,18,82
+13473,"ThomXa01","Xavier","Thomas",2024.00,"DE","DE","Clemson",5,3,138
+13474,"AdamIs01","Isaiah","Adams",2024.00,"OL","OL","Illinois",3,7,71
+13475,"BensTr01","Trey","Benson",2024.00,"RB","RB","Florida St.",3,2,66
+13476,"JoneCh12","Christian","Jones",2024.00,"OL","OL","Texas",5,27,162
+13477,"TaylDa02","Dadrion","Taylor-Demerson",2024.00,"DB","DB","Texas Tech",4,4,104
+13478,"DaviJa09","Jaden","Davis",2024.00,"DB","DB","Miami (FL)",7,6,226
+13479,"PalmTe00","Tejhaun","Palmer",2024.00,"WR","WR","Ala-Birmingham",6,15,191
+13480,"RobiDa01","Darius","Robinson",2024.00,"DL","DL","Missouri",1,27,27
+13481,"HarrMa09","Marvin","Harrison",2024.00,"WR","WR","Ohio St.",1,4,4
+13482,"DorlBr00","Brandon","Dorlus",2024.00,"DE","DE","Oregon",4,9,109
+13483,"BertJD00","JD","Bertrand",2024.00,"LB","LB","Notre Dame",5,8,143
+13484,"WashCa01","Casey","Washington",2024.00,"WR","WR","Illinois",6,11,187
+13485,"LoguZi00","Zion","Logue",2024.00,"DL","DL","Georgia",6,21,197
+13486,"McClJa05","Jase","McClellan",2024.00,"RB","RB","Alabama",6,10,186
+13487,"TricBr00","Bralen","Trice",2024.00,"DE","DE","Washington",3,10,74
+13488,"PeniMi00","Michael","Penix",2024.00,"QB","QB","Washington",1,8,8
+13489,"OrhoRu00","Ruke","Orhorhoro",2024.00,"DT","DT","Clemson",2,3,35
+13490,"AlixRa00","Rasheen","Ali",2024.00,"RB","RB","Marshall",5,30,165
+13491,"TampTJ00","T.J.","Tampa",2024.00,"DB","DB","Iowa St.",4,30,130
+13492,"IsaaAd00","Adisa","Isaac",2024.00,"DE","DE","Penn St.",3,29,93
+13493,"LearDe00","Devin","Leary",2024.00,"QB","QB","Kentucky",6,42,218
+13494,"RoseRo01","Roger","Rosengarten",2024.00,"OL","OL","Washington",2,30,62
+13495,"WiggNa00","Nate","Wiggins",2024.00,"CB","CB","Clemson",1,30,30
+13496,"WalkDe01","Devontez","Walker",2024.00,"WR","WR","North Carolina",4,13,113
+13497,"SamaNi00","Nick","Samac",2024.00,"C","C","Michigan St.",7,8,228
+13498,"KaneSa00","Sanoussi","Kane",2024.00,"S","SAF","Purdue",7,30,250
+13499,"GrabTy00","Tylan","Grable",2024.00,"OL","OL","Central Florida",6,28,204
+13500,"ColeKe02","Keon","Coleman",2024.00,"WR","WR","Florida St.",2,1,33
+13501,"BishCo00","Cole","Bishop",2024.00,"S","SAF","Utah",2,28,60
+13502,"CartDe03","DeWayne","Carter",2024.00,"DT","DT","Duke",3,31,95
+13503,"UlofEd00","Edefuan","Ulofoshio",2024.00,"LB","LB","Washington",5,25,160
+13504,"VanxSe00","Sedrick","Van Pran-Granger",2024.00,"OL","OL","Georgia",5,6,141
+13505,"DaviRa04","Ray","Davis",2024.00,"RB","RB","Kentucky",4,28,128
+13506,"HardDa02","Daequan","Hardy",2024.00,"CB","CB","Penn St.",6,43,219
+13507,"SoloJa00","Javon","Solomon",2024.00,"DE","DE","Troy",5,33,168
+13508,"ClayTr00","Travis","Clayton",2024.00,"T","OT",,7,1,221
+13509,"SandJa01","Ja'Tavion","Sanders",2024.00,"TE","TE","Texas",4,1,101
+13510,"BrooJo02","Jonathon","Brooks",2024.00,"RB","RB","Texas",2,14,46
+13511,"CrumJa00","Jaden","Crumedy",2024.00,"DT","DT","Mississippi St.",6,24,200
+13512,"WallTr00","Trevin","Wallace",2024.00,"LB","LB","Kentucky",3,8,72
+13513,"BarrMi00","Michael","Barrett",2024.00,"LB","LB","Michigan",7,20,240
+13514,"LegeXa00","Xavier","Legette",2024.00,"WR","WR","South Carolina",1,32,32
+13515,"SmitCh05","Chau","Smith-Wade",2024.00,"CB","DB","Washington St.",5,22,157
+13516,"BookAu00","Austin","Booker",2024.00,"DL","DL","Kansas",5,9,144
+13517,"WillCa03","Caleb","Williams",2024.00,"QB","QB","USC",1,1,1
+13518,"TaylTo01","Tory","Taylor",2024.00,"P","P","Iowa",4,22,122
+13519,"AmegKi00","Kiran","Amegadjie",2024.00,"OL","OL","Yale",3,11,75
+13520,"OdunRo00","Rome","Odunze",2024.00,"WR","WR","Washington",1,9,9
+13521,"NewtJo00","Josh","Newton",2024.00,"CB","CB","TCU",5,14,149
+13522,"AnthDa00","Daijahn","Anthony",2024.00,"S","SAF","Mississippi",7,4,224
+13523,"BurtJe01","Jermaine","Burton",2024.00,"WR","WR","Alabama",3,16,80
+13524,"McLaTa00","Tanner","McLachlan",2024.00,"TE","TE","Arizona",6,18,194
+13525,"JackMc00","McKinnley","Jackson",2024.00,"DT","DL","Texas A&M",3,33,97
+13526,"JenkKr01","Kris","Jenkins Jr.",2024.00,"DT","DL","Michigan",2,17,49
+13527,"JohnCe01","Cedric","Johnson",2024.00,"DE","DE","Mississippi",6,38,214
+13528,"LeexMa02","Matt","Lee",2024.00,"C","C","Miami (FL)",7,17,237
+13529,"AllxEr00","Erick","All",2024.00,"TE","TE","Iowa",4,15,115
+13530,"MimsAm00","Amarius","Mims",2024.00,"T","OL","Georgia",1,18,18
+13531,"HallMi00","Michael","Hall",2024.00,"DT","DT","Ohio St.",2,22,54
+13532,"ZintZa00","Zak","Zinter",2024.00,"OL","OL","Michigan",3,21,85
+13533,"HardMy00","Myles","Harden",2024.00,"DB","DB","South Dakota",7,7,227
+13534,"BrigJo00","Jowon","Briggs",2024.00,"DE","DE","Cincinnati",7,23,243
+13535,"WatsNa00","Nathaniel","Watson",2024.00,"LB","LB","Mississippi St.",6,30,206
+13536,"ThraJa01","Jamari","Thrash",2024.00,"WR","WR","Louisville",5,21,156
+13537,"ThomNa01","Nathan","Thomas",2024.00,"T","OL","Louisiana",7,13,233
+13538,"CarsCa01","Caelen","Carson",2024.00,"CB","DB","Wake Forest",5,39,174
+13539,"LiufMa00","Marist","Liufau",2024.00,"LB","LB","Notre Dame",3,23,87
+13540,"BeebCo00","Cooper","Beebe",2024.00,"C","OL","Kansas St.",3,9,73
+13541,"KneeMa00","Marshawn","Kneeland",2024.00,"DE","DL","Western Michigan",2,24,56
+13542,"RogeJu01","Justin","Rogers",2024.00,"DL","DL","Auburn",7,24,244
+13543,"GuytTy00","Tyler","Guyton",2024.00,"T","OL","Oklahoma",1,29,29
+13544,"FlouRy00","Ryan","Flournoy",2024.00,"WR","WR","SE Missouri St.",6,40,216
+13545,"NixxBo00","Bo","Nix",2024.00,"QB","QB","Oregon",1,12,12
+13546,"FranTr00","Troy","Franklin",2024.00,"WR","WR","Oregon",4,2,102
+13547,"GargNi00","Nick","Gargiulo",2024.00,"OL","OL","South Carolina",7,36,256
+13548,"ElliJo03","Jonah","Elliss",2024.00,"DE","DE","Utah",3,12,76
+13549,"AbraKr00","Kris","Abrams-Draine",2024.00,"DB","DB","Missouri",5,10,145
+13550,"EstiAu00","Audric","Estime",2024.00,"RB","RB","Notre Dame",5,12,147
+13551,"VeleDe00","Devaughn","Vele",2024.00,"WR","WR","Utah",7,15,235
+13552,"RakeEn00","Ennis","Rakestraw",2024.00,"DB","DB","Missouri",2,29,61
+13553,"WingMe00","Mekhi","Wingo",2024.00,"DT","DT","LSU",6,13,189
+13554,"VakiSi00","Sione","Vaki",2024.00,"RB","SAF","Utah",4,32,132
+13555,"MahoCh00","Christian","Mahogany",2024.00,"OL","OL","Boston Col.",6,34,210
+13556,"ManuGi00","Giovanni","Manu",2024.00,"OL","OL","British Columbia",4,26,126
+13557,"ArnoTe00","Terrion","Arnold",2024.00,"DB","DB","Alabama",1,24,24
+13558,"KingKa00","Kalen","King",2024.00,"CB","CB","Penn St.",7,35,255
+13559,"MonkJa00","Jacob","Monk",2024.00,"OL","OL","Duke",5,28,163
+13560,"MorgJo03","Jordan","Morgan",2024.00,"OL","OL","Arizona",1,25,25
+13561,"OladKi00","Kitan","Oladapo",2024.00,"S","DB","Oregon St.",5,34,169
+13562,"WillEv00","Evan","Williams",2024.00,"S","DB","Oregon",4,11,111
+13563,"GlovTr00","Travis","Glover",2024.00,"T","OT","Georgia St.",6,26,202
+13564,"CoopEd00","Edgerrin","Cooper",2024.00,"LB","LB","Texas A&M",2,13,45
+13565,"HoppTy00","Ty'Ron","Hopper",2024.00,"LB","LB","Missouri",3,27,91
+13566,"LloyMa00","MarShawn","Lloyd",2024.00,"RB","RB","USC",3,24,88
+13567,"BullJa00","Javon","Bullard",2024.00,"S","DB","Georgia",2,26,58
+13568,"PratMi00","Michael","Pratt",2024.00,"QB","QB","Tulane",7,25,245
+13569,"StovCa00","Cade","Stover",2024.00,"TE","TE","Ohio St.",4,23,123
+13570,"LassKa00","Kamari","Lassiter",2024.00,"CB","DB","Georgia",2,10,42
+13571,"HendLa00","LaDarius","Henderson",2024.00,"G","OL","Michigan",7,29,249
+13572,"FishBl00","Blake","Fisher",2024.00,"T","OL","Notre Dame",2,27,59
+13573,"BullCa00","Calen","Bullock",2024.00,"S","SAF","USC",3,14,78
+13574,"HarrMa08","Marcus","Harris",2024.00,"DL","DL","Auburn",7,27,247
+13575,"ByrdSo00","Solomon","Byrd",2024.00,"DE","DE","USC",7,18,238
+13576,"HillJa02","Jamal","Hill",2024.00,"LB","LB","Oregon",6,12,188
+13577,"JordJa00","Jawhar","Jordan",2024.00,"RB","RB","Louisville",6,29,205
+13578,"LaulJo00","Jonah","Laulu",2024.00,"DL","DL","Oklahoma",7,14,234
+13579,"LatuLa00","Laiatu","Latu",2024.00,"DL","DL","UCLA",1,15,15
+13580,"CarlJa01","Jaylon","Carlies",2024.00,"DB","DB","Missouri",5,16,151
+13581,"MitcAd00","Adonai","Mitchell",2024.00,"WR","WR","Texas",2,20,52
+13582,"GoncMa00","Matt","Goncalves",2024.00,"OL","OL","Pittsburgh",3,15,79
+13583,"SimpJa00","Jaylin","Simpson",2024.00,"CB","SAF","Auburn",5,29,164
+13584,"GoulAn00","Anthony","Gould",2024.00,"WR","WR","Oregon St.",5,7,142
+13585,"AbraMi00","Micah","Abraham",2024.00,"CB","CB","Marshall",6,25,201
+13586,"BortTa00","Tanor","Bortolini",2024.00,"OL","OL","Wisconsin",4,17,117
+13587,"JoneJa14","Jarrian","Jones",2024.00,"DB","DB","Florida St.",3,32,96
+13588,"ThomBr06","Brian","Thomas",2024.00,"WR","WR","LSU",1,23,23
+13589,"PrinDe01","Deantre","Prince",2024.00,"CB","CB","Mississippi",5,18,153
+13590,"JeffJo01","Jordan","Jefferson",2024.00,"DT","DT","LSU",4,16,116
+13591,"LittCa00","Cam","Little",2024.00,"K","K","Arkansas",6,36,212
+13592,"RobiKe03","Keilan","Robinson",2024.00,"RB","RB","Texas",5,32,167
+13593,"ColeMy00","Myles","Cole",2024.00,"DE","OLB","Texas Tech",7,16,236
+13594,"FostJa01","Javon","Foster",2024.00,"OL","OL","Missouri",4,14,114
+13595,"SmitMa07","Maason","Smith",2024.00,"DT","DT","LSU",2,16,48
+13596,"HickJa01","Jaden","Hicks",2024.00,"DB","DB","Washington St.",4,33,133
+13597,"HaddKa00","Kamal","Hadden",2024.00,"CB","DB","Tennessee",6,35,211
+13598,"HansCJ00","C.J.","Hanson",2024.00,"OL","OG","Holy Cross",7,28,248
+13599,"SuamKi00","Kingsley","Suamataia",2024.00,"OL","OL","BYU",2,31,63
+13600,"NourHu00","Hunter","Nourzad",2024.00,"OL","OL","Penn St.",5,24,159
+13601,"WortXa00","Xavier","Worthy",2024.00,"WR","WR","Texas",1,28,28
+13602,"WileJa00","Jared","Wiley",2024.00,"TE","TE","TCU",4,31,131
+13603,"KamaMo00","Mohamed","Kamara",2024.00,"DL","DL","Colorado St.",5,23,158
+13604,"WashMa00","Malik","Washington",2024.00,"WR","WR","Virginia",6,8,184
+13605,"McMoPa00","Patrick","McMorris",2024.00,"DB","DB","California",6,22,198
+13606,"PaulPa01","Patrick","Paul",2024.00,"OL","OL","Houston",2,23,55
+13607,"WashTa00","Tahj","Washington",2024.00,"WR","WR","USC",7,21,241
+13608,"RobiCh00","Chop","Robinson",2024.00,"DE","DE","Penn St.",1,21,21
+13609,"WrigJa04","Jaylen","Wright",2024.00,"RB","RB","Tennessee",4,20,120
+13610,"JackKh00","Khyree","Jackson",2024.00,"DB","DB","Oregon",4,8,108
+13611,"JurgMi01","Michael","Jurgens",2024.00,"OL","OL","Wake Forest",7,10,230
+13612,"McCaJJ00","J.J.","McCarthy",2024.00,"QB","QB","Michigan",1,10,10
+13613,"RodrLe00","Levi Drake","Rodriguez",2024.00,"DT","DT","Texas A&M-Commerce",7,12,232
+13614,"RousWa00","Walter","Rouse",2024.00,"OL","OL","Oklahoma",6,1,177
+13615,"ReicWi00","Will","Reichard",2024.00,"K","K","Alabama",6,27,203
+13616,"TurnDa01","Dallas","Turner",2024.00,"LB","LB","Alabama",1,17,17
+13617,"WallCa00","Caedan","Wallace",2024.00,"T","OL","Penn St.",3,4,68
+13618,"MayeDr00","Drake","Maye",2024.00,"QB","QB","North Carolina",1,3,3
+13619,"MiltJo00","Joe","Milton",2024.00,"QB","QB","Tennessee",6,17,193
+13620,"PolkJa00","Ja'Lynn","Polk",2024.00,"WR","WR","Washington",2,5,37
+13621,"BakeJa00","Javon","Baker",2024.00,"WR","WR","Central Florida",4,10,110
+13622,"RobiLa02","Layden","Robinson",2024.00,"G","OL","Texas A&M",4,3,103
+13623,"DialMa00","Marcellas","Dial Jr.",2024.00,"DB","DB","South Carolina",6,4,180
+13624,"BellJa00","Jaheim","Bell",2024.00,"TE","TE","Florida St.",7,11,231
+13625,"McKiKo00","Kool-Aid","McKinstry",2024.00,"DB","DB","Alabama",2,9,41
+13626,"RattSp00","Spencer","Rattler",2024.00,"QB","QB","South Carolina",5,15,150
+13627,"FuagTa00","Taliese","Fuaga",2024.00,"OL","OL","Oregon St.",1,14,14
+13628,"BoydKh00","Khristian","Boyd",2024.00,"DL","DL","Northern Iowa",6,23,199
+13629,"FordJa02","Jaylan","Ford",2024.00,"LB","LB","Texas",5,40,175
+13630,"MeanBu00","Bub","Means",2024.00,"WR","WR","Pittsburgh",5,35,170
+13631,"EzirJo00","Josiah","Ezirim",2024.00,"T","OT","Eastern Kentucky",7,19,239
+13632,"NubiTy00","Tyler","Nubin",2024.00,"DB","DB","Minnesota",2,15,47
+13633,"NabeMa00","Malik","Nabers",2024.00,"WR","WR","LSU",1,6,6
+13634,"TracTy00","Tyrone","Tracy",2024.00,"RB","RB","Purdue",5,31,166
+13635,"JohnTh00","Theo","Johnson",2024.00,"TE","TE","Penn St.",4,7,107
+13636,"MuasDa00","Darius","Muasau",2024.00,"LB","LB","UCLA",6,7,183
+13637,"PhilAn02","Andru","Phillips",2024.00,"DB","DB","Kentucky",3,6,70
+13638,"AlleBr05","Braelon","Allen",2024.00,"RB","RB","Wisconsin",4,34,134
+13639,"StigQw00","Qwan'tez","Stiggers",2024.00,"CB","CB",,5,41,176
+13640,"TravJo00","Jordan","Travis",2024.00,"QB","QB","Florida St.",5,36,171
+13641,"FashOl00","Olumuyiwa","Fashanu",2024.00,"OL","OL","Penn St.",1,11,11
+13642,"DaviIs00","Isaiah","Davis",2024.00,"RB","RB","South Dakota St.",5,38,173
+13643,"KeyxJa00","Jaylen","Key",2024.00,"S","SAF","Alabama",7,37,257
+13644,"CorlMa00","Malachi","Corley",2024.00,"WR","WR","Western Kentucky",3,1,65
+13645,"PoweJa00","Jackson","Powers-Johnson",2024.00,"OL","OL","Oregon",2,12,44
+13646,"TaylTr03","Trey","Taylor",2024.00,"S","FS","Air Force",7,3,223
+13647,"RichDe01","Decamerion","Richardson",2024.00,"CB","CB","Mississippi St.",4,12,112
+13648,"EichTo00","Tommy","Eichenberg",2024.00,"LB","LB","Ohio St.",5,13,148
+13649,"DevoMJ00","M.J.","Devonshire",2024.00,"DB","DB","Pittsburgh",7,9,229
+13650,"GlazDe00","Delmar","Glaze",2024.00,"OL","OL","Maryland",3,13,77
+13651,"LaubDy00","Dylan","Laube",2024.00,"RB","RB","New Hampshire",6,32,208
+13652,"BoweBr01","Brock","Bowers",2024.00,"TE","TE","Georgia",1,13,13
+13653,"TrotJe01","Jeremiah","Trotter",2024.00,"LB","LB","Clemson",5,20,155
+13654,"DeJeCo00","Cooper","DeJean",2024.00,"DB","DB","Iowa",2,8,40
+13655,"MitcQu00","Quinyon","Mitchell",2024.00,"CB","CB","Toledo",1,22,22
+13656,"HuntJa02","Jalyx","Hunt",2024.00,"DE","DE","Houston Christian",3,30,94
+13657,"ShipWi00","Will","Shipley",2024.00,"RB","RB","Clemson",4,27,127
+13658,"WilsJo03","Johnny","Wilson",2024.00,"WR","WR","Florida St.",6,9,185
+13659,"SmitAi00","Ainias","Smith",2024.00,"WR","WR","Texas A&M",5,17,152
+13660,"McMaDy00","Dylan","McMahon",2024.00,"OL","OL","North Carolina St.",6,14,190
+13661,"KeegTr00","Trevor","Keegan",2024.00,"OL","OL","Michigan",5,37,172
+13662,"FautTr00","Troy","Fautanu",2024.00,"T","OL","Washington",1,20,20
+13663,"McCoMa00","Mason","McCormick",2024.00,"G","OL","South Dakota St.",4,19,119
+13664,"WattRy00","Ryan","Watts",2024.00,"DB","SAF","Texas",6,19,195
+13665,"FrazZa00","Zach","Frazier",2024.00,"C","OL","West Virginia",2,19,51
+13666,"WilsPa00","Payton","Wilson",2024.00,"LB","LB","North Carolina St.",3,34,98
+13667,"LeexLo00","Logan","Lee",2024.00,"DT","DL","Iowa",6,2,178
+13668,"WilsRo02","Roman","Wilson",2024.00,"WR","WR","Michigan",3,20,84
+13669,"HartCa00","Cam","Hart",2024.00,"CB","CB","Notre Dame",5,5,140
+13670,"ColsJu00","Junior","Colson",2024.00,"LB","LB","Michigan",3,5,69
+13671,"EboiJu00","Justin","Eboigbe",2024.00,"DL","DL","Alabama",4,5,105
+13672,"JohnCo02","Cornelius","Johnson",2024.00,"WR","WR","Michigan",7,33,253
+13673,"AltxJo01","Joe","Alt",2024.00,"OL","OL","Notre Dame",1,5,5
+13674,"VidaKi00","Kimani","Vidal",2024.00,"RB","RB","Troy",6,5,181
+13675,"RiceBr00","Brenden","Rice",2024.00,"WR","WR","USC",7,5,225
+13676,"StilTa00","Tarheeb","Still",2024.00,"DB","DB","Maryland",5,2,137
+13677,"McCoLa00","Ladd","McConkey",2024.00,"WR","WR","Georgia",2,2,34
+13678,"JerrMi00","Michael","Jerrell",2024.00,"T","OT","Findlay",6,31,207
+13679,"HaynCh00","Christian","Haynes",2024.00,"OL","OL","Connecticut",3,17,81
+13680,"MurpBy01","Byron","Murphy",2024.00,"DL","DL","Texas",1,16,16
+13681,"PritNe00","Nehemiah","Pritchett",2024.00,"CB","CB","Auburn",5,1,136
+13682,"BarnAJ00","AJ","Barner",2024.00,"TE","TE","Michigan",4,21,121
+13683,"KnigTy00","Tyrice","Knight",2024.00,"LB","LB","Texas-El Paso",4,18,118
+13684,"JameDJ00","D.J.","James",2024.00,"CB","CB","Auburn",6,16,192
+13685,"LaumSa00","Sataoa","Laumea",2024.00,"OL","OL","Utah",6,3,179
+13686,"MustMa00","Malik","Mustapha",2024.00,"S","DB","Wake Forest",4,24,124
+13687,"PuniDo00","Dominick","Puni",2024.00,"OL","OL","Kansas",3,22,86
+13688,"GreeRe00","Renardo","Green",2024.00,"CB","DB","Florida St.",2,32,64
+13689,"PearRi00","Ricky","Pearsall",2024.00,"WR","WR","Florida",1,31,31
+13690,"GuerIs00","Isaac","Guerendo",2024.00,"RB","RB","Louisville",4,29,129
+13691,"BethTa00","Tatum","Bethune",2024.00,"LB","LB","Florida St.",7,31,251
+13692,"CowiJa00","Jacob","Cowing",2024.00,"WR","WR","Arizona",4,35,135
+13693,"KingJa02","Jarrett","Kingston",2024.00,"G","OL","USC",6,39,215
+13694,"KincKa00","Kamren","Kinchens",2024.00,"DB","SAF","Miami (FL)",3,35,99
+13695,"FiskBr00","Braden","Fiske",2024.00,"DL","DL","Florida St.",2,7,39
+13696,"KartJo00","Joshua","Karty",2024.00,"K","K","Stanford",6,33,209
+13697,"VersJa00","Jared","Verse",2024.00,"DL","DL","Florida St.",1,19,19
+13698,"CoruBl00","Blake","Corum",2024.00,"RB","RB","Michigan",3,19,83
+13699,"LeveKT00","KT","Leveston",2024.00,"OL","OL","Kansas St.",7,34,254
+13700,"WhitJo04","Jordan","Whittington",2024.00,"WR","WR","Texas",6,37,213
+13701,"DaviTy05","Tyler","Davis",2024.00,"DT","DT","Clemson",6,20,196
+13702,"JackBr02","Brennan","Jackson",2024.00,"DE","DE","Washington St.",5,19,154
+13703,"LimmBe00","Beaux","Limmer",2024.00,"OL","OL","Arkansas",6,41,217
+13704,"BartGr00","Graham","Barton",2024.00,"C","OL","Duke",1,26,26
+13705,"KleiEl00","Elijah","Klein",2024.00,"G","OG","Texas-El Paso",6,44,220
+13706,"McMiJa01","Jalen","McMillan",2024.00,"WR","WR","Washington",3,28,92
+13707,"CulpDe00","Devin","Culp",2024.00,"TE","TE","Washington",7,26,246
+13708,"IrviBu00","Bucky","Irving",2024.00,"RB","RB","Oregon",4,25,125
+13709,"BrasCh01","Chris","Braswell",2024.00,"LB","LB","Alabama",2,25,57
+13710,"SmitTy05","Tykee","Smith",2024.00,"S","DB","Georgia",3,25,89
+13711,"LathJC00","JC","Latham",2024.00,"OL","OL","Alabama",1,7,7
+13712,"BrowJa09","Jarvis","Brownlee",2024.00,"DB","DB","Louisville",5,11,146
+13713,"GrayCe00","Cedric","Gray",2024.00,"LB","LB","North Carolina",4,6,106
+13714,"JackJh00","Jha'Quan","Jackson",2024.00,"WR","WR","Tulane",6,6,182
+13715,"HarrJa05","Jaylen","Harrell",2024.00,"DE","DE","Michigan",7,32,252
+13716,"SweaTV01","T'Vondre","Sweat",2024.00,"DL","DL","Texas",2,6,38
+13717,"WillJa15","James","Williams",2024.00,"S","SAF","Miami (FL)",7,22,242
+13718,"HampDo00","Dominique","Hampton",2024.00,"CB","CB","Washington",5,26,161
+13719,"NewtJe00","Jer'Zhan","Newton",2024.00,"DT","DL","Illinois",2,4,36
+13720,"JeanJa00","Javontae","Jean-Baptiste",2024.00,"DE","DL","Notre Dame",7,2,222
+13721,"MageJo00","Jordan","Magee",2024.00,"LB","LB","Temple",5,4,139
+13722,"SainMi00","Mike","Sainristil",2024.00,"CB","DB","Michigan",2,18,50
+13723,"SinnBe00","Ben","Sinnott",2024.00,"TE","TE","Kansas St.",2,21,53
+13724,"ColeBr02","Brandon","Coleman",2024.00,"T","OL","TCU",3,3,67
+13725,"DaniJa02","Jayden","Daniels",2024.00,"QB","QB","LSU",1,2,2
+13726,"McCaLu00","Luke","McCaffrey",2024.00,"WR","WR","Rice",3,36,100
+13728,"SmitKi00","Kion","Smith",2023.00,"T",,,,,
+13729,"JollSh00","Shaun","Jolly",2022.00,"DB",,,,,
+13730,"WatsLe00","Leroy","Watson IV",2023.00,"T",,,,,
+13731,"BoyeEk00","Ekow","Boye-Doe",2023.00,"CB",,,,,
+13732,"CaliMi00","Mike","Caliendo",2023.00,"OL",,,,,
+13733,"BassTJ00","T.J.","Bass",2023.00,"G",,,,,
+13734,"HoffBr00","Brock","Hoffman",2022.00,"C",,,,,
+13735,"FrenWe00","Wesley","French",2023.00,"C",,,,,
+13736,"SillJo00","Josh","Sills",2022.00,"G",,,,,
+13737,"HamiDe00","Devery","Hamilton",2022.00,"T",,,,,
+13738,"GlasCh01","Chris","Glaser",2023.00,"G",,,,,
+13739,"ODonCa00","Carter","O'Donnell",2023.00,"OL",,,,,
+13740,"CherCl00","Claudin","Cherelus",2023.00,"LB",,,,,
+13741,"LeexRi00","Ricky","Lee",2023.00,"T",,,,,
+13742,"VanDRy00","Ryan","Van Demark",2023.00,"T",,,,,
+13743,"NeuzRy00","Ryan","Neuzil",2022.00,"OL",,,,,
+13744,"BrooBr01","British","Brooks",2024.00,"RB",,"North Carolina",,,
+13745,"RichDe03","Demani","Richardson",2024.00,"S",,"Texas A&M",,,
+13746,"HolaGe00","George","Holani",2024.00,"RB",,"Boise St.",,,
+13747,"GainAm00","Amari","Gainer",2024.00,"LB",,,,,
+13748,"MartDa01","David","Martin-Robinson",2024.00,"TE",,"Temple",,,
+13749,"ChatEl00","Elijah","Chatman",2024.00,"DT",,"SMU",,,
+13750,"TaimTa00","Taki","Taimani",2024.00,"DL",,,,,
+13751,"HattHo00","Hogan","Hatten",2024.00,"LS",,"Idaho",,,
+13752,"RemiNi00","Nikko","Remigio",2024.00,"WR",,,,,
+13753,"BartSh00","Shemar","Bartholomew",2024.00,"CB",,,,,
+13754,"McGrBr00","Braiden","McGregor",2024.00,"DE",,"Michigan",,,
+13755,"RichBo01","Bo","Richter",2024.00,"LB",,"Air Force",,,
+13756,"GrieAn00","Antonio","Grier",2024.00,"LB",,,,,
+13757,"OlivBr02","Bryce","Oliver",2024.00,"WR",,,,,
+13758,"BrooKe02","Kendell","Brooks",2024.00,"S",,,,,
+13759,"CoxxBr02","Brenton","Cox Jr.",2023.00,"DL",,,,,
+13760,"JacoCu00","Curtis","Jacobs",2024.00,"LB",,"Penn St.",,,
+13761,"UkwuIs00","Isaac","Ukwu",2024.00,"DL",,,,,
+13762,"BrowJa10","Jack","Browning",2024.00,"P",,,,,
+13763,"AndeAl01","Alec","Anderson",2024.00,"T",,"UCLA",,,
+13764,"GayeAl01","Ali","Gaye",2024.00,"LB",,,,,
+13765,"SamxAn00","Andre'","Sam",2024.00,"S",,,,,
+13766,"OrjiAn00","Anfernee","Orji",2024.00,"LB",,"Vanderbilt",,,
+13767,"GreeAr01","Art","Green",2024.00,"CB",,,,,
+13768,"BishBe00","Beanie","Bishop",2024.00,"CB",,,,,
+13769,"BrowBe01","Ben","Brown",2023.00,"C",,"Mississippi",,,
+13770,"CodrBr00","Brandon","Codrington",2024.00,"DB",,"North Carolina Central",,,
+13771,"JoseBr00","Brandon","Joseph",2023.00,"S",,,,,
+13772,"SpanBr00","Brevyn","Spann-Ford",2024.00,"TE",,"Minnesota",,,
+13774,"FordBr00","Bryce","Ford-Wheaton",2024.00,"WR",,"West Virginia",,,
+13775,"TremBr00","Brycen","Tremayne",2024.00,"WR",,"Stanford",,,
+13776,"SteeCa00","Carson","Steele",2024.00,"RB",,,,,
+13777,"SnowCh00","Charles","Snowden",2021.00,"DE",,"Virginia",,,
+13778,"WoodCh01","Charles","Woods",2024.00,"DB",,,,,
+13779,"SmitCh06","Chris","Smith",2024.00,"DL",,,,,
+13780,"RolaCh00","Christian","Roland-Wallace",2024.00,"CB",,,,,
+13781,"SchrCo00","Cody","Schrader",2024.00,"RB",,,,,
+13782,"YankCo00","Colson","Yankoff",2024.00,"TE",,,,,
+13783,"GantDa00","Dallas","Gant",2024.00,"LB",,"Toledo",,,
+13784,"HolkDa00","Dallin","Holker",2024.00,"TE",,,,,
+13785,"MillDa04","Dante","Miller",2024.00,"RB",,,,,
+13786,"WillDe11","Dee","Williams",2024.00,"CB",,,,,
+13787,"PettDe00","Dell","Pettus",2024.00,"S",,"Troy",,,
+13788,"KeyxDe00","Devon","Key",2024.00,"DB",,"Western Kentucky",,,
+13789,"ColeDJ00","DJ","Coleman",2024.00,"DE",,,,,
+13790,"TillDo00","Dondrea","Tillman",2024.00,"LB",,"Indiana (PA)",,,
+13791,"JohnDy00","Dyontae","Johnson",2024.00,"LB",,"Toledo",,,
+13792,"WattEr00","Eric","Watts",2024.00,"DL",,"Connecticut",,,
+13793,"AndeEv00","Evan","Anderson",2024.00,"DL",,"Florida Atlantic",,,
+13794,"DeckEv00","Evan","Deckers",2024.00,"LS",,,,,
+13795,"MurpGa00","Gabriel","Murphy",2024.00,"LB",,,,,
+13796,"StalIs00","Isaiah","Stalbird",2024.00,"LB",,,,,
+13797,"WindJa00","Jacoby","Windmon",2024.00,"LB",,,,,
+13798,"BateJa00","Jake","Bates",2024.00,"K",,,,,
+13799,"RedmJa01","Jalen","Redmond",2024.00,"DL",,"Oklahoma",,,
+13800,"MonrJa00","Jarius","Monroe",2024.00,"S",,,,,
+13801,"PeevJa00","Jayden","Peevy",2022.00,"DT",,"Texas A&M",,,
+13802,"MahoJa00","Jaylen","Mahoney",2024.00,"S",,"Vanderbilt",,,
+13803,"McCoJa02","Jaylen","McCollough",2024.00,"DB",,"Tennessee",,,
+13804,"AndrJo02","Joe","Andreessen",2024.00,"LB",,,,,
+13805,"ShenJo00","John Samuel","Shenker",2024.00,"TE",,"Auburn",,,
+13806,"ButlJo00","Josh","Butler",2024.00,"CB",,"Michigan St.",,,
+13807,"WallJo00","Josh","Wallace",2024.00,"DB",,,,,
+13808,"WoodJu00","Julius","Wood",2024.00,"S",,,,,
+13809,"SmitKe05","Keidron","Smith",2024.00,"DB",,,,,
+13810,"DysoKe01","Kenny","Dyson",2024.00,"LB",,"Bryant",,,
+13811,"AustKe00","Kevin","Austin",2024.00,"WR",,"Notre Dame",,,
+13812,"DukeKh00","Khalid","Duke",2024.00,"LB",,"Kansas St.",,,
+13813,"TaylLe01","Leonard","Taylor",2024.00,"DL",,"Miami (FL)",,,
+13814,"BailLe00","Levelle","Bailey",2024.00,"LB",,"Fresno St.",,,
+13815,"NjonMa00","Maema","Njongmeta",2024.00,"LB",,"Wisconsin",,,
+13816,"McCrMa01","Marcelino","McCrary-Ball",2023.00,"LB",," Indiana",,,
+13817,"CurtMc00","McClendon","Curtis",2023.00,"G",,"Chattanooga",,,
+13818,"BattMi00","Miles","Battle",2024.00,"CB",,,,,
+13819,"BradMi00","Millard","Bradford",2024.00,"S",,"TCU",,,
+13820,"AgudMi01","Mitchell","Agude",2024.00,"LB",,,,,
+13821,"BrooNa01","Natrone","Brooks",2024.00,"CB",,,,,
+13822,"SpeiOm00","Omar","Speights",2024.00,"LB",,,,,
+13823,"FantPr00","Princeton","Fant",2023.00,"TE",,"Tennessee",,,
+13824,"KeytRa00","Ramel","Keyton",2024.00,"WR",,"Tennessee",,,
+13825,"StewRe00","Reddy","Steward",2024.00,"CB",,"Troy",,,
+13826,"SunaRe00","Rex","Sunahara",2024.00,"LS",,,,,
+13827,"PaytRi00","Rico","Payton",2024.00,"CB",,,,,
+13828,"MillRy01","Ryan","Miller",2023.00,"WR",,"Furman",,,
+13829,"HeywSh00","Shaka","Heyward",2024.00,"LB",,"Duke",,,
+13830,"DuckSt00","Storm","Duck",2024.00,"CB",,,,,
+13831,"BozeSw00","Swayze","Bozeman",2024.00,"LB",,,,,
+13832,"HarpTh00","Thomas","Harper",2024.00,"S",,,,,
+13833,"JoneTr01","Truman","Jones",2024.00,"DE",,"Harvard",,,
+13834,"OwenTy00","Tyler","Owens",2024.00,"S",,,,,
+13835,"McAlTy00","Tyreik","McAllister",2024.00,"WR",,"Charleston (WV)",,,
+13836,"FundTy00","Tyrek","Funderburk",2024.00,"CB",,,,,
+13837,"JoneVi00","Vi","Jones",2022.00,"LB",,,,,
+13838,"ReidWi01","Winston","Reid",2024.00,"LB",,"Weber St.",,,
+13839,"SmitXa00","Xavier","Smith",2024.00,"WR",,"Florida A&M",,,
+13840,"BradBe01","Beau","Brade",2024.00,"S",,"Maryland",,,
+13841,"NarvBr00","Brayden","Narveson",2024.00,"K",,,,,
+13842,"RomoJo00","John Parker","Romo",2024.00,"K",,,,,
+13843,"ShraSp00","Spencer","Shrader",2024.00,"K",,,,,
+13844,"McAtJu00","Jude","McAtamney",2024.00,"K",,,,,
+13845,"HaybMa00","Matthew","Hayball",2024.00,"P",,,,,
+13846,"WillIs03","Isaiah","Williams",2024.00,"WR",,"Illinois",,,
+13847,"JackJe01","Jermaine","Jackson",2024.00,"WR",,,,,
+13848,"JohnKa01","Kameron","Johnson",2024.00,"WR",,"Barton",,,
+13849,"CollCh01","Chris","Collier",2024.00,"RB",,,,,
+13850,"PryoKe00","Kendric","Pryor",2024.00,"WR",,"Wisconsin",,,
+13851,"ShamAa00","Aaron","Shampklin",2024.00,"RB",,"Harvard",,,
+13852,"TiptMa00","Mason","Tipton",2024.00,"WR",,"Yale",,,
+13853,"WillDJ00","D.J.","Williams",2024.00,"RB",,,,,
+13854,"DaviKa02","Kaden","Davis",2024.00,"WR",,,,,
+13855,"CokeJa01","Jalen","Coker",2024.00,"WR",,"Holy Cross",,,
+13856,"RehkRy00","Ryan","Rehkow",2024.00,"P",,"BYU",,,
+13857,"McCoSi00","Sincere","McCormick",2024.00,"RB",,"Texas-San Antonio",,,
+13858,"WhitBl01","Blake","Whiteheart",2023.00,"TE",,"Wake Forest",,,
+13859,"GranCa00","Cam","Grandy",2024.00,"TE",,,,,
+13860,"BlaiCh00","Chris","Blair",2023.00,"WR",,,,,
+13861,"JenkEJ00","E.J.","Jenkins",2024.00,"TE",,,,,
+13862,"KiboJa00","Jacob","Kibodi",2024.00,"RB",,,,,
+13863,"MartTa00","Tay","Martin",2022.00,"WR",,,,,
+13864,"ShavTy00","Tyrell","Shavers",2024.00,"WR",,,,,
+13865,"WatsBl00","Blake","Watson",2024.00,"RB",,,,,
+13866,"BateBr00","Brenden","Bates",2024.00,"TE",,"Kentucky",,,
+13867,"CuppBa00","Baylor","Cupp",2024.00,"TE",,,,,
+13868,"JennTe00","Terrell","Jennings",2024.00,"RB",,"Florida A&M",,,
+13869,"WeavXa00","Xavier","Weaver",2024.00,"WR",,,,,
+13870,"JohnWi02","Will","Johnson",2025.00,"CB","CB","Michigan",2,15,47
+13871,"NoleWa00","Walter","Nolen",2025.00,"DT","DT","Mississippi",1,16,16
+13872,"CrawKi00","Kitan","Crawford",2025.00,"S","SAF","Nevada",7,9,225
+13873,"BurkDe01","Denzel","Burke",2025.00,"CB","CB","Ohio St.",5,36,174
+13874,"BurcJo00","Jordan","Burch",2025.00,"DE","DE","Oregon",3,14,78
+13875,"ConnHa00","Hayden","Conner",2025.00,"OL","OL","Texas",6,35,211
+13876,"SimoCo01","Cody","Simon",2025.00,"LB","LB","Ohio St.",4,13,115
+13877,"NelsJa01","Jack","Nelson",2025.00,"T","OT","Wisconsin",7,2,218
+13878,"PearJa00","James","Pearce",2025.00,"DE","DE","Tennessee",1,26,26
+13879,"BowmBi01","Billy","Bowman",2025.00,"S","SAF","Oklahoma",4,16,118
+13880,"WalkJa02","Jalon","Walker",2025.00,"DE","DE","Georgia",1,15,15
+13881,"WattXa00","Xavier","Watts",2025.00,"S","SAF","Notre Dame",3,32,96
+13882,"KoneBi00","Bilhal","Kone",2025.00,"CB","CB","Western Michigan",6,2,178
+13883,"GreeMi02","Mike","Green",2025.00,"DE","DE","Marshall",2,27,59
+13884,"LongRo00","Robert","Longerbeam",2025.00,"DB","DB","Rutgers",6,36,212
+13885,"LoopTy00","Tyler","Loop",2025.00,"K","K","Arizona",6,10,186
+13886,"StarMa00","Malaki","Starks",2025.00,"S","SAF","Georgia",1,27,27
+13887,"WestLa01","LaJohntay","Wester",2025.00,"WR","WR","Colorado",6,27,203
+13888,"VinsCa00","Carson","Vinson",2025.00,"T","OT","Alabama A&M",5,3,141
+13889,"PeebAe00","Aeneas","Peebles",2025.00,"DT","DT","Virginia Tech",6,34,210
+13890,"BuchTe00","Teddye","Buchanan",2025.00,"LB","LB","California",4,27,129
+13891,"DellGa00","Garrett","Dellinger",2025.00,"G","OG","LSU",7,27,243
+13892,"JoneEm02","Emery","Jones",2025.00,"OL","OL","LSU",3,27,91
+13893,"HaweJa00","Jackson","Hawes",2025.00,"TE","TE","Georgia Tech",5,35,173
+13894,"HancJo00","Jordan","Hancock",2025.00,"S","SAF","Ohio St.",5,32,170
+13895,"HairMa00","Maxwell","Hairston",2025.00,"CB","CB","Kentucky",1,30,30
+13896,"JackLa03","Landon","Jackson",2025.00,"DE","DE","Arkansas",3,8,72
+13897,"StroDo01","Dorian","Strong",2025.00,"CB","CB","Virginia Tech",6,1,177
+13898,"SandTJ00","T.J.","Sanders",2025.00,"DT","DT","South Carolina",2,9,41
+13899,"PratKa00","Kaden","Prather",2025.00,"WR","WR","Maryland",7,24,240
+13900,"LundCh00","Chase","Lundt",2025.00,"OL","OL","Connecticut",6,30,206
+13901,"WalkDe04","Deone","Walker",2025.00,"DT","DT","Kentucky",4,7,109
+13902,"McMiTe00","Tetairoa","McMillan",2025.00,"WR","WR","Arizona",1,8,8
+13903,"HornJi00","Jimmy","Horn Jr.",2025.00,"WR","WR","Colorado",6,32,208
+13904,"UmanPr00","Princely","Umanmielen",2025.00,"LB","DE","Mississippi",3,13,77
+13905,"RansLa00","Lathan","Ransom",2025.00,"S","SAF","Ohio St.",4,20,122
+13906,"EtieTr01","Trevor","Etienne",2025.00,"RB","RB","Georgia",4,12,114
+13907,"EvanMi01","Mitchell","Evans",2025.00,"TE","TE","Notre Dame",5,25,163
+13908,"ScouNi00","Nic","Scourton",2025.00,"LB","DE","Texas A&M",2,19,51
+13909,"JackCa01","Cam","Jackson",2025.00,"DT","DT","Florida",5,2,140
+13910,"FrazZa01","Zah","Frazier",2025.00,"CB","CB","Texas-San Antonio",5,31,169
+13911,"BurdLu00","Luther","Burden",2025.00,"WR","WR","Missouri",2,7,39
+13912,"NewmLu00","Luke","Newman",2025.00,"G","OG","Michigan St.",6,19,195
+13913,"LoveCo00","Colston","Loveland",2025.00,"TE","TE","Michigan",1,10,10
+13914,"HyppRu00","Ruben","Hyppolite",2025.00,"LB","LB","Maryland",4,30,132
+13915,"MonaKy00","Kyle","Monangai",2025.00,"RB","RB","Rutgers",7,17,233
+13916,"TurnSh00","Shemar","Turner",2025.00,"DE","DE","Texas A&M",2,30,62
+13917,"TrapOz00","Ozzy","Trapilo",2025.00,"OL","OL","Boston Col.",2,24,56
+13918,"CartBa00","Barrett","Carter",2025.00,"LB","LB","Clemson",4,17,119
+13919,"BrooTa00","Tahj","Brooks",2025.00,"RB","RB","Texas Tech",6,17,193
+13920,"StewSh00","Shemar","Stewart",2025.00,"DE","DE","Texas A&M",1,17,17
+13921,"FairDy00","Dylan","Fairchild",2025.00,"G","OL","Georgia",3,17,81
+13922,"KnigDe00","Demetrius","Knight",2025.00,"LB","LB","South Carolina",2,17,49
+13923,"RiveJa00","Jalen","Rivers",2025.00,"T","OL","Miami (FL)",5,15,153
+13924,"SandSh00","Shedeur","Sanders",2025.00,"QB","QB","Colorado",5,6,144
+13925,"GabrDi00","Dillon","Gabriel",2025.00,"QB","QB","Oregon",3,30,94
+13926,"JudkQu00","Quinshon","Judkins",2025.00,"RB","RB","Ohio St.",2,4,36
+13927,"SchwCa00","Carson","Schwesinger",2025.00,"LB","LB","UCLA",2,1,33
+13928,"FannHa00","Harold","Fannin",2025.00,"TE","TE","Bowling Green",3,3,67
+13929,"SampDy00","Dylan","Sampson",2025.00,"RB","RB","Tennessee",4,24,126
+13930,"GrahMa00","Mason","Graham",2025.00,"DT","DT","Michigan",1,5,5
+13931,"CornAj00","Ajani","Cornelius",2025.00,"T","OL","Oregon",6,28,204
+13932,"BookTy00","Tyler","Booker",2025.00,"G","OL","Alabama",1,12,12
+13933,"JameSh00","Shemar","James",2025.00,"LB","LB","Florida",5,14,152
+13934,"AkinTo00","Tommy","Akingbesote",2025.00,"DT","DT","Maryland",7,31,247
+13935,"BlueJa01","Jaydon","Blue",2025.00,"RB","RB","Texas",5,11,149
+13936,"ToiaJa00","Jay","Toia",2025.00,"DT","DT","UCLA",7,1,217
+13937,"EzeiDo00","Donovan","Ezeiruaku",2025.00,"DE","DE","Boston Col.",2,12,44
+13938,"ReveSh00","Shavon","Revel",2025.00,"CB","CB","East Carolina",3,12,76
+13939,"MafaPh00","Phil","Mafah",2025.00,"RB","RB","Clemson",7,23,239
+13940,"BryaPa00","Pat","Bryant",2025.00,"WR","WR","Illinois",3,10,74
+13941,"CrawJe00","Jeremy","Crawshaw",2025.00,"P","P","Florida",6,40,216
+13942,"RobiQu00","Quandarrius","Robinson",2025.00,"LB","LB","Alabama",4,32,134
+13943,"HarvRJ00","RJ","Harvey",2025.00,"RB","RB","Central Florida",2,28,60
+13944,"LohnCa00","Caleb","Lohner",2025.00,"TE","TE","Utah",7,25,241
+13945,"JoneSa01","Sai'vion","Jones",2025.00,"DE","DE","LSU",3,37,101
+13946,"BarrJa01","Jahdae","Barron",2025.00,"CB","CB","Texas",1,20,20
+13947,"FrazMi00","Miles","Frazier",2025.00,"G","OG","LSU",5,33,171
+13948,"HassAh00","Ahmed","Hassanein",2025.00,"DE","DE","Boise St.",6,20,196
+13949,"RatlTa00","Tate","Ratledge",2025.00,"OL","OL","Georgia",2,25,57
+13950,"TeSlIs00","Isaac","TeSlaa",2025.00,"WR","WR","Arkansas",3,6,70
+13951,"WillTy02","Tyleik","Williams",2025.00,"DT","DT","Ohio St.",1,28,28
+13952,"JackDa04","Dan","Jackson",2025.00,"S","SAF","Georgia",7,14,230
+13953,"LoveDo00","Dominic","Lovett",2025.00,"WR","WR","Georgia",7,28,244
+13954,"GoldMa02","Matthew","Golden",2025.00,"WR","WR","Texas",1,23,23
+13955,"SorrBa00","Barryn","Sorrell",2025.00,"DE","DE","Texas",4,22,124
+13956,"BeltAn00","Anthony","Belton",2025.00,"T","OT","North Carolina St.",2,22,54
+13957,"OlivCo00","Collin","Oliver",2025.00,"DE","DE","Oklahoma St.",5,21,159
+13958,"WillJo11","John","Williams",2025.00,"G","OL","Cincinnati",7,34,250
+13959,"RobiMi01","Micah","Robinson",2025.00,"CB","CB","Tulane",7,21,237
+13960,"WillSa01","Savion","Williams",2025.00,"WR","WR","TCU",3,23,87
+13961,"BrinWa00","Warren","Brinson",2025.00,"DL","DL","Georgia",6,22,198
+13962,"MertGr00","Graham","Mertz",2025.00,"QB","QB","Florida",6,21,197
+13963,"HiggJa00","Jayden","Higgins",2025.00,"WR","WR","Iowa St.",2,2,34
+13964,"ErseAi00","Aireontae","Ersery",2025.00,"T","OL","Minnesota",2,16,48
+13965,"HamiKy01","Kyonte","Hamilton",2025.00,"DT","DL","Rutgers",7,8,224
+13966,"SmitJa11","Jaylin","Smith",2025.00,"CB","CB","USC",3,33,97
+13967,"MarkWo00","Woody","Marks",2025.00,"RB","RB","USC",4,14,116
+13968,"NoelJa00","Jaylin","Noel",2025.00,"WR","WR","Iowa St.",3,15,79
+13969,"LachLu00","Luke","Lachey",2025.00,"TE","TE","Iowa",7,39,255
+13970,"ReedJa04","Jaylen","Reed",2025.00,"S","SAF","Penn St.",6,11,187
+13971,"LeonRi02","Riley","Leonard",2025.00,"QB","QB","Notre Dame",6,13,189
+13972,"TuimJT00","JT","Tuimoloau",2025.00,"DE","DE","Ohio St.",2,13,45
+13973,"SmitTi02","Tim","Smith",2025.00,"DL","DL","Alabama",6,14,190
+13974,"TravJa00","Jalen","Travis",2025.00,"T","OT","Iowa St.",4,25,127
+13975,"GiddDJ00","DJ","Giddens",2025.00,"RB","RB","Kansas St.",5,13,151
+13976,"WallJu00","Justin","Walley",2025.00,"CB","CB","Minnesota",3,16,80
+13977,"WarrTy00","Tyler","Warren",2025.00,"TE","TE","Penn St.",1,14,14
+13978,"WohlHu00","Hunter","Wohler",2025.00,"S","SAF","Wisconsin",7,16,232
+13979,"LaneRa00","Rayuan","Lane",2025.00,"S","FS","Navy",6,24,200
+13980,"KiseJa00","Jack","Kiser",2025.00,"LB","LB","Notre Dame",4,5,107
+13981,"HuntTr00","Travis","Hunter",2025.00,"WR","WR","Colorado",1,2,2
+13982,"TuteBh00","Bhayshul","Tuten",2025.00,"RB","RB","Virginia Tech",4,2,104
+13983,"MonhJo00","Jonah","Monheim",2025.00,"OL","OL","USC",7,5,221
+13984,"McLeJa00","Jalen","McLeod",2025.00,"DE","DE","Auburn",6,18,194
+13985,"AlleLe01","LeQuint","Allen",2025.00,"RB","RB","Syracuse",7,20,236
+13986,"RansCa00","Caleb","Ransaw",2025.00,"S","SAF","Tulane",3,24,88
+13987,"MiluWy00","Wyatt","Milum",2025.00,"OL","OL","West Virginia",3,25,89
+13988,"GillAs00","Ashton","Gillotte",2025.00,"DE","DE","Louisville",3,2,66
+13989,"WillNo01","Nohl","Williams",2025.00,"CB","CB","California",3,21,85
+13990,"RoyaJa00","Jalen","Royals",2025.00,"WR","WR","Utah St.",4,31,133
+13991,"SmitBr09","Brashard","Smith",2025.00,"RB","RB","SMU",7,12,228
+13992,"SimmJo01","Josh","Simmons",2025.00,"OL","OL","Ohio St.",1,32,32
+13993,"NormOm00","Omarr","Norman-Lott",2025.00,"DT","DT","Tennessee",2,31,63
+13994,"BassJe00","Jeffrey","Bassa",2025.00,"LB","LB","Oregon",5,18,156
+13995,"GordOl00","Ollie","Gordon",2025.00,"RB","RB","Oklahoma St.",6,3,179
+13996,"BiggZe01","Zeek","Biggers",2025.00,"DL","DL","Georgia Tech",7,37,253
+13997,"SavaJo00","Jonah","Savaiinaea",2025.00,"OL","OL","Arizona",2,5,37
+13998,"TradDa00","Dante","Trader",2025.00,"S","SAF","Maryland",5,17,155
+13999,"PhilJo02","Jordan","Phillips",2025.00,"DL","DL","Maryland",5,5,143
+14000,"EwerQu00","Quinn","Ewers",2025.00,"QB","QB","Texas",7,15,231
+14001,"MarsJa00","Jason","Marshall",2025.00,"CB","CB","Florida",5,12,150
+14002,"GranKe01","Kenneth","Grant",2025.00,"DT","DT","Michigan",1,13,13
+14003,"IngrTy00","Tyrion","Ingram-Dawkins",2025.00,"DE","DE","Georgia",5,1,139
+14004,"FeltTa00","Tai","Felton",2025.00,"WR","WR","Maryland",3,38,102
+14005,"JackDo03","Donovan","Jackson",2025.00,"OL","OL","Ohio St.",1,24,24
+14006,"BartGa00","Gavin","Bartholomew",2025.00,"TE","TE","Pittsburgh",6,26,202
+14007,"KingKo00","Kobe","King",2025.00,"LB","LB","Penn St.",6,25,201
+14008,"BorrAn00","Andres","Borregales",2025.00,"K","K","Miami (FL)",6,6,182
+14009,"WillKy03","Kyle","Williams",2025.00,"WR","WR","Washington St.",3,5,69
+14010,"BryaMa02","Marcus","Bryant",2025.00,"T","OL","Missouri",7,4,220
+14011,"HendTr02","TreVeyon","Henderson",2025.00,"RB","RB","Ohio St.",2,6,38
+14012,"SwinBr01","Bradyn","Swinson",2025.00,"LB","DE","LSU",5,8,146
+14013,"MinoKo00","Kobee","Minor",2025.00,"DB","DB","Memphis",7,41,257
+14014,"FarmJo00","Joshua","Farmer",2025.00,"DT","DT","Florida St.",4,35,137
+14015,"AshbJu00","Julian","Ashby",2025.00,"LS","LS","Vanderbilt",7,35,251
+14016,"CampWi01","Will","Campbell",2025.00,"T","OT","LSU",1,4,4
+14017,"WoodCr00","Craig","Woodson",2025.00,"S","SAF","California",4,4,106
+14018,"WilsJa02","Jared","Wilson",2025.00,"C","OL","Georgia",3,31,95
+14019,"BrouVe00","Vernon","Broughton",2025.00,"DT","DT","Texas",3,7,71
+14020,"DiggFa00","Fadil","Diggs",2025.00,"DE","DE","Syracuse",7,38,254
+14021,"ShouTy00","Tyler","Shough",2025.00,"QB","QB","Louisville",2,8,40
+14022,"SankJo00","Jonas","Sanker",2025.00,"S","SAF","Virginia",3,29,93
+14023,"MataMo00","Moliki","Matavao",2025.00,"TE","TE","UCLA",7,32,248
+14024,"NealDe00","Devin","Neal",2025.00,"RB","RB","Kansas",6,8,184
+14025,"StutDa00","Danny","Stutsman",2025.00,"LB","LB","Oklahoma",4,10,112
+14026,"BankKe01","Kelvin","Banks",2025.00,"OL","OL","Texas",1,9,9
+14027,"RileQu00","Quincy","Riley",2025.00,"CB","CB","Louisville",4,29,131
+14028,"CartAb00","Abdul","Carter",2025.00,"DE","DE","Penn St.",1,3,3
+14029,"MbowMa00","Marcus","Mbow",2025.00,"OL","OL","Purdue",5,16,154
+14030,"AlexDa01","Darius","Alexander",2025.00,"DT","DT","Toledo",3,1,65
+14031,"FidoTh00","Thomas","Fidone",2025.00,"TE","TE","Nebraska",7,3,219
+14032,"SkatCa00","Cam","Skattebo",2025.00,"RB","RB","Arizona St.",4,3,105
+14033,"DartJa00","Jaxson","Dart",2025.00,"QB","QB","Mississippi",1,25,25
+14034,"BlacKo00","Korie","Black",2025.00,"CB","CB","Oklahoma St.",7,30,246
+14035,"MembAr00","Armand","Membou",2025.00,"OL","OL","Missouri",1,7,7
+14036,"TaylMa02","Mason","Taylor",2025.00,"TE","TE","LSU",2,10,42
+14037,"MauiFr00","Francisco","Mauigoa",2025.00,"LB","LB","Miami (FL)",5,24,162
+14038,"ThomAz00","Azareye'h","Thomas",2025.00,"CB","CB","Florida St.",3,9,73
+14039,"BaroTy00","Tyler","Baron",2025.00,"DE","DE","Miami (FL)",5,38,176
+14040,"SmitAr01","Arian","Smith",2025.00,"WR","WR","Georgia",4,8,110
+14041,"MoorMa04","Malachi","Moore",2025.00,"S","SAF","Alabama",4,28,130
+14042,"BechJa00","Jack","Bech",2025.00,"WR","WR","TCU",2,26,58
+14043,"LindCo00","Cody","Lindenberg",2025.00,"LB","LB","Minnesota",7,6,222
+14044,"RogeCa01","Caleb","Rogers",2025.00,"OL","OL","Texas Tech",3,34,98
+14045,"GranCh00","Charles","Grant",2025.00,"OL","OL","William & Mary",3,35,99
+14046,"MillCa00","Cam","Miller",2025.00,"QB","QB","North Dakota St.",6,39,215
+14047,"ThorDo00","Dont'e","Thornton",2025.00,"WR","WR","Tennessee",4,6,108
+14048,"PeguJJ00","JJ","Pegues",2025.00,"DT","DT","Mississippi",6,4,180
+14049,"PortDa00","Darien","Porter",2025.00,"CB","CB","Iowa St.",3,4,68
+14050,"HemiTo00","Tonka","Hemingway",2025.00,"DT","DT","South Carolina",4,33,135
+14051,"MellTo00","Tommy","Mellott",2025.00,"QB","QB","Montana St.",6,37,213
+14052,"JeanAs00","Ashton","Jeanty",2025.00,"RB","RB","Boise St.",1,6,6
+14053,"PoweAn00","Antwaun","Powell-Ryland",2025.00,"DE","DE","Virginia Tech",6,33,209
+14054,"WillCa04","Cameron","Williams",2025.00,"OL","OL","Texas",6,31,207
+14055,"HintMy00","Myles","Hinton",2025.00,"T","OT","Michigan",6,15,191
+14056,"McCoKy00","Kyle","McCord",2025.00,"QB","QB","Syracuse",6,5,181
+14057,"KendDr00","Drew","Kendall",2025.00,"C","C","Boston Col.",5,30,168
+14058,"CampJi00","Jihaad","Campbell",2025.00,"LB","LB","Alabama",1,31,31
+14059,"MukuAn00","Andrew","Mukuba",2025.00,"S","SAF","Texas",2,32,64
+14060,"MondSm01","Smael","Mondon",2025.00,"LB","LB","Georgia",5,23,161
+14061,"McWiMa01","Mac","McWilliams",2025.00,"CB","CB","Central Florida",5,7,145
+14062,"RobiTy02","Ty","Robinson",2025.00,"DT","DT","Nebraska",4,9,111
+14063,"KentDo00","Donte","Kent",2025.00,"CB","CB","Central Michigan",7,13,229
+14064,"SawyJa00","Jack","Sawyer",2025.00,"LB","DE","Ohio St.",4,21,123
+14065,"BrueCa00","Carson","Bruener",2025.00,"LB","LB","Washington",7,10,226
+14066,"JohnKa03","Kaleb","Johnson",2025.00,"RB","RB","Iowa",3,19,83
+14067,"BlacYa00","Yahya","Black",2025.00,"DE","DT","Iowa",5,26,164
+14068,"HarmDe01","Derrick","Harmon",2025.00,"DT","DT","Oregon",1,21,21
+14069,"HowaWi01","Will","Howard",2025.00,"QB","QB","Ohio St.",6,9,185
+14070,"HampOm00","Omarion","Hampton",2025.00,"RB","RB","North Carolina",1,22,22
+14071,"HarrTr03","Tre","Harris",2025.00,"WR","WR","Mississippi",2,23,55
+14072,"BridTr00","Trikweze","Bridges",2025.00,"S","SAF","Florida",7,40,256
+14073,"TaylBr04","Branson","Taylor",2025.00,"OL","OL","Pittsburgh",6,23,199
+14074,"KennKy00","Kyle","Kennard",2025.00,"DE","DE","South Carolina",4,23,125
+14075,"CaldJa00","Jamaree","Caldwell",2025.00,"DT","DT","Oregon",3,22,86
+14076,"GadsOr01","Oronde","Gadsden",2025.00,"TE","TE","Syracuse",5,27,165
+14077,"MickRJ00","R.J.","Mickens",2025.00,"S","SAF","Clemson",6,38,214
+14078,"LambKe01","KeAndre","Lambert-Smith",2025.00,"WR","WR","Auburn",5,20,158
+14079,"MartDa02","Damien","Martinez",2025.00,"RB","RB","Miami (FL)",7,7,223
+14080,"MilrJa00","Jalen","Milroe",2025.00,"QB","QB","Alabama",3,28,92
+14081,"ArroEl00","Elijah","Arroyo",2025.00,"TE","TE","Miami (FL)",2,18,50
+14082,"OuztRo00","Robbie","Ouzts",2025.00,"TE","TE","Alabama",5,37,175
+14083,"HortTo00","Tory","Horton",2025.00,"WR","WR","Colorado St.",5,28,166
+14084,"CabeBr00","Bryce","Cabeldue",2025.00,"T","OT","Kansas",6,16,192
+14085,"RichMa01","Mason","Richman",2025.00,"OL","OL","Iowa",7,18,234
+14086,"WhitRi01","Ricky","White",2025.00,"WR","WR","UNLV",7,22,238
+14087,"ZabeGr00","Grey","Zabel",2025.00,"T","OT","North Dakota St.",1,18,18
+14088,"EmmaNi00","Nick","Emmanwori",2025.00,"S","SAF","South Carolina",2,3,35
+14089,"MillRy02","Rylie","Mills",2025.00,"DL","DL","Notre Dame",5,4,142
+14090,"JameJo01","Jordan","James",2025.00,"RB","RB","Oregon",5,9,147
+14091,"StouUp00","Upton","Stout",2025.00,"CB","CB","Western Kentucky",3,36,100
+14092,"BergJu00","Junior","Bergen",2025.00,"WR","WR","Montana",7,36,252
+14093,"CollAl01","Alfred","Collins",2025.00,"DT","DT","Texas",2,11,43
+14094,"ColbCo00","Connor","Colby",2025.00,"OL","OL","Iowa",7,33,249
+14095,"WestCJ00","CJ","West",2025.00,"DT","DT","Indiana",4,11,113
+14096,"SiglMa00","Marques","Sigle",2025.00,"S","SAF","Kansas St.",5,22,160
+14097,"WillMy00","Mykel","Williams",2025.00,"DL","DL","Georgia",1,11,11
+14098,"WatkJo00","Jordan","Watkins",2025.00,"WR","WR","Mississippi",4,36,138
+14099,"MartNi01","Nick","Martin",2025.00,"LB","LB","Oklahoma St.",3,11,75
+14100,"RourKu01","Kurtis","Rourke",2025.00,"QB","QB","Indiana",7,11,227
+14101,"StewJo03","Josaiah","Stewart",2025.00,"DE","DE","Michigan",3,26,90
+14102,"FergTe00","Terrance","Ferguson",2025.00,"TE","TE","Oregon",2,14,46
+14103,"HamiTy00","Ty","Hamilton",2025.00,"DT","DT","Ohio St.",5,10,148
+14104,"HuntJa03","Jarquez","Hunter",2025.00,"RB","RB","Auburn",4,15,117
+14105,"MumpKo00","Konata","Mumpfield",2025.00,"WR","WR","Pittsburgh",7,26,242
+14106,"PaulCh01","Chris","Paul",2025.00,"LB","LB","Mississippi",5,34,172
+14107,"ParrJa01","Jacob","Parrish",2025.00,"CB","CB","Kansas St.",3,20,84
+14108,"EgbuEm01","Emeka","Egbuka",2025.00,"WR","WR","Ohio St.",1,19,19
+14109,"WalkDa03","David","Walker",2025.00,"LB","OLB","Central Arkansas",4,19,121
+14110,"JohnTe03","Tez","Johnson",2025.00,"WR","WR","Oregon",7,19,235
+14111,"RobeEl01","Elijah","Roberts",2025.00,"DT","DT","SMU",5,19,157
+14112,"MorrBe00","Benjamin","Morrison",2025.00,"CB","CB","Notre Dame",2,21,53
+14113,"WardCa00","Cam","Ward",2025.00,"QB","QB","Miami (FL)",1,1,1
+14114,"HelmGu00","Gunnar","Helm",2025.00,"TE","TE","Texas",4,18,120
+14115,"WinsKe02","Kevin","Winston",2025.00,"S","SAF","Penn St.",3,18,82
+14116,"DikeCh00","Chimere","Dike",2025.00,"WR","WR","Florida",4,1,103
+14117,"MullKa00","Kalel","Mullings",2025.00,"RB","RB","Michigan",6,12,188
+14118,"OladOl00","Oluwafemi","Oladejo",2025.00,"DE","DE","UCLA",2,20,52
+14119,"HarrMa10","Marcus","Harris",2025.00,"DB","DB","California",6,7,183
+14120,"SlatJa01","Jackson","Slater",2025.00,"OL","OL","Sacramento St.",5,29,167
+14121,"AyomEl00","Elic","Ayomanor",2025.00,"WR","WR","Stanford",4,34,136
+14122,"AmosTr00","Trey","Amos",2025.00,"CB","CB","Mississippi",2,29,61
+14123,"MedrKa00","Kain","Medrano",2025.00,"LB","LB","UCLA",6,29,205
+14124,"CrosJa00","Jacory","Croskey-Merritt",2025.00,"RB","RB","Arizona",7,29,245
+14125,"ConeJo00","Josh","Conerly",2025.00,"T","OL","Oregon",1,29,29
+14126,"LaneJa00","Jaylin","Lane",2025.00,"WR","WR","Virginia Tech",4,26,128
+14127,"JacoDe00","Demontrey","Jacobs",2024.00,"T",,,,,
+14129,"CochDe00","Devin","Cochran",2024.00,"T",,,,,
+14130,,"Brice","Bass",,"LB","LB","Texas State",,,
+14131,"SingDo00","Dorian","Singer",2025.00,"WR",,"Utah",,,
+14132,"StriDa01","Danny","Striggow",2025.00,"DL",,"Minnesota",,,
+14133,"WillJo32","Jordan","Williams",,"OL",,"Georgia Tech",,,
+14134,"BondIs00","Isaiah","Bond",2025.00,"WR",,"Texas",,,
+14135,"BrowSa01","Sam","Brown",,"WR",,"Miami",,,
+14136,"ChamCh01","Chaz","Chambliss",2025.00,"LB",,"Georgia",,,
+14137,,"Jordan","Houston",,"RB",,"Marshall",,,
+14138,"JackCo00","Courtney","Jackson",,"WR",,"Arkansas St.",,,
+14139,"LampWi00","Willie","Lampkin",,"G","C","North Carolina",,,
+14140,,"Robert","Lewis",,"WR",,"Auburn",,,
+14141,"MartCh02","Chandler","Martin",2025.00,"LB",,"Memphis",,,
+14142,,"Alex","Raynor",,"K",,"Kentucky",,,
+14143,"JoneMi03","Mikel","Jones",,"LB",,"Syracuse",,,
+14144,,"Jamal","Turner",,"TE",,"Toledo",,,
+14145,,"Christopher","Dunn",,"K",,"NC State",,,
+14146,"MannIl00","Ilm","Manning",2023.00,"OL",,"Hawaii",,,
+14147,"BryaCo02","Cobee","Bryant",2025.00,"CB",,"Kansas",,,
+14148,"ConyJa00","Jalin","Conyers",2025.00,"TE",,"Texas Tech",,,
+14149,,"Brandon","Taylor",,"OL",,"Pittsburgh",,,
+14150,,"D'Quan","Douse",,"DL",,"Michigan St.",,,
+14151,"IzzaCo00","Coziah","Izzard",2025.00,"DT",,"Penn St.",,,
+14153,"CarlXa00","Xavier","Carlton",2025.00,"DE",,"California",,,
+14154,"BrinJa00","Jake","Briningstool",2025.00,"TE",,"Clemson",,,
+14155,"PierHo00","Hollin","Pierce",2025.00,"T",,"Rutgers",,,
+14156,"TaylRo02","Roc","Taylor",2025.00,"WR",,"Memphis",,,
+14157,,"Ali","Jennings",,"WR",,"Virginia Tech",,,
+14158,"JackNi00","Nick","Jackson",2025.00,"LB",,"Iowa",,,
+14159,"GreeBJ00","B.J.","Green II",2025.00,"DL",,"Colorado",,,
+14160,"McMiDo00","Donovan","McMillon",2025.00,"S",,"Pittsburgh",,,
+14161,"FrenTy00","Ty","French",,"LB",,"West Virginia",,,
+14199,,"Logan","Bonner",,"QB",,"Utah State",,,
+14200,,"John","Torchio",,"S",,"Wisconsin",,,
+14201,"BorgMa00","Max","Borghi",,"RB",,"Washington St.",,,
+14202,"JohnLe04","Leonard","Johnson",,"CB",,"Duke",,,
+14248,,"Philip","Blidi",,"DT",,"Auburn",,,
+14249,"ChriGe02","Gerad","Christian-Lichtenhan",,"T",,"Oregon St.",,,
+14162,,"Treshaun","Ward",,"RB",,"Boston College",,,
+14163,"CollBe00","Beaux","Collins",2025.00,"WR",,"Notre Dame",,,
+14164,"FlemDo00","Dontae","Fleming",,"WR",,"Tulane",,,
+14165,,"Addison","West",,"OL",,"Western Michigan",,,
+14166,"MajoJa00","Jake","Majors",,"C",,"Texas",,,
+14167,"VaugJo02","Joe","Vaughn",,"LB",,"UCLA",,,
+14168,"CastSe01","Sebastian","Castro",2025.00,"S",,"Iowa",,,
+14169,,"Jaheim","Thomas",2025.00,"LB",,"Wisconsin",,,
+14170,"VigeCa00","Car'lin","Vigers",2025.00,"CB",,"Louisiana Monroe",,,
+14171,"AlstEl00","Elijah","Alston",,"DE",,"Miami",,,
+14172,"RobeJJ00","J.J.","Roberts",,"S",,"Marshall",,,
+14173,"NeyoIs00","Isaiah","Neyor",,"WR",,"Nebraska",,,
+14174,"ArmsAn01","Andrew","Armstrong",,"WR",,"Arkansas",,,
+14175,"NashNi00","Nick","Nash",,"WR",,"San Jose St.",,,
+14177,"KineCo00","Corey","Kiner",2025.00,"RB",,"Cincinnati",,,
+14178,,"Vonte","Davis",,"S",,"Utah",,,
+14179,"NelsSc00","Scott","Nelson",,"S",,"Wisconsin",,,
+14180,"ONeaLe01","Leon","O'Neal",,"S",,"Texas A&M",,,
+14181,"HarlMi00","Mike","Harley",,"WR",,"Miami",,,
+14182,,"Tre","Webb",,"DB",,"Montana St.",,,
+14183,"DelaJe00","Jean","Delance",,"T",,"Florida",,,
+14184,"BoykLa00","Lance","Boykin",2023.00,"CB",,"Coastal Carolina",,,
+14186,"BrowSh01","Shakel","Brown",,"DT",,"Troy",,,
+14187,"HaseJa00","Jadon","Haselwood",,"WR",,"Arkansas",,,
+14188,,"Steven","Jones",,"CB",,"Appalachian St.",,,
+14189,"PrinDe00","Deneric","Prince",2023.00,"RB",,"Tulsa",,,
+14190,"WilsJo02","Joel","Wilson",,"TE",,"Central Michigan",,,
+14192,"MannTa00","Tashawn","Manning",,"G",,"Kentucky",,,
+14193,"ByrdHe00","Henry","Byrd",2025.00,"G",,"Princeton",,,
+14194,,"Elijah","Harper",,"WR",,"Adams St.",,,
+14195,,"Demontario","Anderson",,"DL",,"Texas Southern",,,
+14196,"EnecIk00","Ikenna","Enechukwu",,"DE",,"Rice",,,
+14197,,"Tyreque","Wilson",,"S",,"Boise State",,,
+14198,"BeacTy00","Tyler","Beach",,"OL",,"Wisconsin",,,
